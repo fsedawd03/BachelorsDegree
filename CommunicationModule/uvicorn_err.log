@@ -1,0 +1,1214 @@
+2024-04-22 09:19:03,826 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\CommunicationModule"]
+2024-04-22 09:19:03,826 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-04-22 09:19:03,827 - uvicorn.error - INFO - Started reloader process [6772] using WatchFiles
+2024-04-22 09:19:04,236 - uvicorn.error - INFO - Started server process [13780]
+2024-04-22 09:19:04,236 - uvicorn.error - INFO - Waiting for application startup.
+2024-04-22 09:19:04,237 - uvicorn.error - INFO - Application startup complete.
+2024-04-22 09:19:33,666 - uvicorn.error - INFO - Shutting down
+2024-04-22 09:19:33,776 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-04-22 09:19:33,776 - uvicorn.error - INFO - Application shutdown complete.
+2024-04-22 09:19:33,777 - uvicorn.error - INFO - Finished server process [13780]
+2024-04-22 09:19:33,820 - uvicorn.error - INFO - Stopping reloader process [6772]
+2024-04-22 09:19:52,156 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\CommunicationModule"]
+2024-04-22 09:19:52,157 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-04-22 09:19:52,157 - uvicorn.error - INFO - Started reloader process [1816] using WatchFiles
+2024-04-22 09:19:52,574 - uvicorn.error - INFO - Started server process [9776]
+2024-04-22 09:19:52,574 - uvicorn.error - INFO - Waiting for application startup.
+2024-04-22 09:19:52,574 - uvicorn.error - INFO - Application startup complete.
+2024-04-22 09:25:51,669 - uvicorn.error - INFO - Shutting down
+2024-04-22 09:25:51,778 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-04-22 09:25:51,778 - uvicorn.error - INFO - Application shutdown complete.
+2024-04-22 09:25:51,778 - uvicorn.error - INFO - Finished server process [9776]
+2024-04-22 09:25:51,823 - uvicorn.error - INFO - Stopping reloader process [1816]
+2024-04-22 09:25:52,853 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\CommunicationModule"]
+2024-04-22 09:25:52,853 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-04-22 09:25:52,854 - uvicorn.error - INFO - Started reloader process [7952] using WatchFiles
+2024-04-22 09:25:53,255 - uvicorn.error - INFO - Started server process [12848]
+2024-04-22 09:25:53,255 - uvicorn.error - INFO - Waiting for application startup.
+2024-04-22 09:25:53,255 - uvicorn.error - INFO - Application startup complete.
+2024-04-22 09:26:28,752 - uvicorn.error - INFO - Shutting down
+2024-04-22 09:26:28,861 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-04-22 09:26:28,861 - uvicorn.error - INFO - Application shutdown complete.
+2024-04-22 09:26:28,861 - uvicorn.error - INFO - Finished server process [12848]
+2024-04-22 09:26:28,909 - uvicorn.error - INFO - Stopping reloader process [7952]
+2024-04-22 09:36:08,564 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\CommunicationModule"]
+2024-04-22 09:36:08,565 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-04-22 09:36:08,565 - uvicorn.error - INFO - Started reloader process [12016] using WatchFiles
+2024-04-22 09:36:09,059 - uvicorn.error - INFO - Started server process [8888]
+2024-04-22 09:36:09,059 - uvicorn.error - INFO - Waiting for application startup.
+2024-04-22 09:36:09,059 - uvicorn.error - INFO - Application startup complete.
+2024-04-22 09:36:22,500 - uvicorn.error - INFO - Shutting down
+2024-04-22 09:36:22,608 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-04-22 09:36:22,608 - uvicorn.error - INFO - Application shutdown complete.
+2024-04-22 09:36:22,608 - uvicorn.error - INFO - Finished server process [8888]
+2024-04-22 09:36:22,670 - uvicorn.error - INFO - Stopping reloader process [12016]
+2024-04-22 09:46:23,398 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\CommunicationModule"]
+2024-04-22 09:46:23,398 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-04-22 09:46:23,398 - uvicorn.error - INFO - Started reloader process [8072] using WatchFiles
+2024-04-22 09:46:23,843 - uvicorn.error - INFO - Started server process [1564]
+2024-04-22 09:46:23,843 - uvicorn.error - INFO - Waiting for application startup.
+2024-04-22 09:46:23,844 - uvicorn.error - INFO - Application startup complete.
+2024-04-22 09:46:52,799 - uvicorn.error - INFO - Shutting down
+2024-04-22 09:46:52,909 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-04-22 09:46:52,909 - uvicorn.error - INFO - Application shutdown complete.
+2024-04-22 09:46:52,909 - uvicorn.error - INFO - Finished server process [1564]
+2024-04-22 09:46:52,987 - uvicorn.error - INFO - Stopping reloader process [8072]
+2024-04-22 09:46:54,181 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\CommunicationModule"]
+2024-04-22 09:46:54,182 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-04-22 09:46:54,182 - uvicorn.error - INFO - Started reloader process [14016] using WatchFiles
+2024-04-22 09:46:54,576 - uvicorn.error - INFO - Started server process [7492]
+2024-04-22 09:46:54,576 - uvicorn.error - INFO - Waiting for application startup.
+2024-04-22 09:46:54,576 - uvicorn.error - INFO - Application startup complete.
+2024-04-22 09:47:55,033 - uvicorn.error - INFO - Shutting down
+2024-04-22 09:47:55,142 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-04-22 09:47:55,142 - uvicorn.error - INFO - Application shutdown complete.
+2024-04-22 09:47:55,142 - uvicorn.error - INFO - Finished server process [7492]
+2024-04-22 09:47:55,193 - uvicorn.error - INFO - Stopping reloader process [14016]
+2024-04-22 09:47:56,293 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\CommunicationModule"]
+2024-04-22 09:47:56,294 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-04-22 09:47:56,294 - uvicorn.error - INFO - Started reloader process [6996] using WatchFiles
+2024-04-22 09:47:56,711 - uvicorn.error - INFO - Started server process [1468]
+2024-04-22 09:47:56,711 - uvicorn.error - INFO - Waiting for application startup.
+2024-04-22 09:47:56,711 - uvicorn.error - INFO - Application startup complete.
+2024-04-22 09:48:34,251 - uvicorn.error - INFO - Shutting down
+2024-04-22 09:48:34,357 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-04-22 09:48:34,357 - uvicorn.error - INFO - Application shutdown complete.
+2024-04-22 09:48:34,357 - uvicorn.error - INFO - Finished server process [1468]
+2024-04-22 09:48:34,398 - uvicorn.error - INFO - Stopping reloader process [6996]
+2024-04-22 09:48:35,631 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\CommunicationModule"]
+2024-04-22 09:48:35,631 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-04-22 09:48:35,631 - uvicorn.error - INFO - Started reloader process [640] using WatchFiles
+2024-04-22 09:48:36,055 - uvicorn.error - INFO - Started server process [8932]
+2024-04-22 09:48:36,055 - uvicorn.error - INFO - Waiting for application startup.
+2024-04-22 09:48:36,055 - uvicorn.error - INFO - Application startup complete.
+2024-04-22 09:48:41,116 - uvicorn.error - INFO - Shutting down
+2024-04-22 09:48:41,227 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-04-22 09:48:41,227 - uvicorn.error - INFO - Application shutdown complete.
+2024-04-22 09:48:41,227 - uvicorn.error - INFO - Finished server process [8932]
+2024-04-22 09:48:41,320 - uvicorn.error - INFO - Stopping reloader process [640]
+2024-04-22 09:48:42,308 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\CommunicationModule"]
+2024-04-22 09:48:42,308 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-04-22 09:48:42,308 - uvicorn.error - INFO - Started reloader process [10776] using WatchFiles
+2024-04-22 09:48:42,717 - uvicorn.error - INFO - Started server process [5716]
+2024-04-22 09:48:42,717 - uvicorn.error - INFO - Waiting for application startup.
+2024-04-22 09:48:42,717 - uvicorn.error - INFO - Application startup complete.
+2024-04-22 09:49:29,966 - uvicorn.error - INFO - Shutting down
+2024-04-22 09:49:30,078 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-04-22 09:49:30,078 - uvicorn.error - INFO - Application shutdown complete.
+2024-04-22 09:49:30,078 - uvicorn.error - INFO - Finished server process [5716]
+2024-04-22 09:49:30,117 - uvicorn.error - INFO - Stopping reloader process [10776]
+2024-04-22 09:49:32,100 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\CommunicationModule"]
+2024-04-22 09:49:32,101 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-04-22 09:49:32,101 - uvicorn.error - INFO - Started reloader process [6688] using WatchFiles
+2024-04-22 09:49:32,531 - uvicorn.error - INFO - Started server process [12280]
+2024-04-22 09:49:32,532 - uvicorn.error - INFO - Waiting for application startup.
+2024-04-22 09:49:32,532 - uvicorn.error - INFO - Application startup complete.
+2024-04-22 09:51:51,555 - uvicorn.error - INFO - Shutting down
+2024-04-22 09:51:51,664 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-04-22 09:51:51,664 - uvicorn.error - INFO - Application shutdown complete.
+2024-04-22 09:51:51,664 - uvicorn.error - INFO - Finished server process [12280]
+2024-04-22 09:51:51,719 - uvicorn.error - INFO - Stopping reloader process [6688]
+2024-04-22 09:52:39,784 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\CommunicationModule"]
+2024-04-22 09:52:39,785 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-04-22 09:52:39,786 - uvicorn.error - INFO - Started reloader process [7852] using WatchFiles
+2024-04-22 09:52:40,206 - uvicorn.error - INFO - Started server process [11988]
+2024-04-22 09:52:40,208 - uvicorn.error - INFO - Waiting for application startup.
+2024-04-22 09:52:40,208 - uvicorn.error - INFO - Application startup complete.
+2024-04-22 09:54:19,155 - uvicorn.error - INFO - Shutting down
+2024-04-22 09:54:19,264 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-04-22 09:54:19,264 - uvicorn.error - INFO - Application shutdown complete.
+2024-04-22 09:54:19,264 - uvicorn.error - INFO - Finished server process [11988]
+2024-04-22 09:54:19,314 - uvicorn.error - INFO - Stopping reloader process [7852]
+2024-04-22 09:54:20,193 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\CommunicationModule"]
+2024-04-22 09:54:20,194 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-04-22 09:54:20,194 - uvicorn.error - INFO - Started reloader process [3060] using WatchFiles
+2024-04-22 09:54:20,670 - uvicorn.error - INFO - Started server process [14636]
+2024-04-22 09:54:20,670 - uvicorn.error - INFO - Waiting for application startup.
+2024-04-22 09:54:20,670 - uvicorn.error - INFO - Application startup complete.
+2024-04-22 09:54:31,688 - uvicorn.error - INFO - Shutting down
+2024-04-22 09:54:31,796 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-04-22 09:54:31,796 - uvicorn.error - INFO - Application shutdown complete.
+2024-04-22 09:54:31,798 - uvicorn.error - INFO - Finished server process [14636]
+2024-04-22 09:54:31,846 - uvicorn.error - INFO - Stopping reloader process [3060]
+2024-06-11 01:46:39,776 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\CommunicationModule"]
+2024-06-11 01:46:39,777 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-06-11 01:46:39,778 - uvicorn.error - INFO - Started reloader process [8556] using WatchFiles
+2024-06-11 01:46:43,488 - uvicorn.error - INFO - Started server process [11660]
+2024-06-11 01:46:43,488 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-11 01:46:43,489 - uvicorn.error - INFO - Application startup complete.
+2024-06-11 01:48:56,640 - uvicorn.error - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\Controllers\EmailDataController.py", line 18, in runModel
+    return self.emailDataService.runModel(emailData)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\Services\EmailDataService.py", line 10, in runModel
+    return self.model(inputData)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\ML_Model\createModel.py", line 7, in ML
+    emailData = emailParser(inputData)
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\Parsers\EmailParser.py", line 32, in emailParser
+    pData = pd.DataFrame(data=h.values(), index=h.keys()).loc[
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\pandas\core\indexing.py", line 1191, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\pandas\core\indexing.py", line 1420, in _getitem_axis
+    return self._getitem_iterable(key, axis=axis)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\pandas\core\indexing.py", line 1360, in _getitem_iterable
+    keyarr, indexer = self._get_listlike_indexer(key, axis)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\pandas\core\indexing.py", line 1558, in _get_listlike_indexer
+    keyarr, indexer = ax._get_indexer_strict(key, axis_name)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\pandas\core\indexes\base.py", line 6200, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\pandas\core\indexes\base.py", line 6249, in _raise_if_missing
+    raise KeyError(f"None of [{key}] are in the [{axis_name}]")
+KeyError: "None of [Index(['From', 'Subject', 'To', 'Return-Path', 'ARC-Authentication-Results'], dtype='object')] are in the [index]"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\uvicorn\protocols\http\httptools_impl.py", line 411, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 69, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\errors.py", line 186, in __call__
+    raise exc
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\exceptions.py", line 65, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 756, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 776, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\routing.py", line 278, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\routing.py", line 193, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\concurrency.py", line 42, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\anyio\to_thread.py", line 56, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 2144, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 851, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\Controllers\EmailDataController.py", line 20, in runModel
+    raise HTTPException(status_code=e.status_code, detail=str(e.detail))
+                                    ^^^^^^^^^^^^^
+AttributeError: 'KeyError' object has no attribute 'status_code'
+2024-06-11 01:50:51,701 - uvicorn.error - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\Controllers\EmailDataController.py", line 18, in runModel
+    return self.emailDataService.runModel(emailData)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\Services\EmailDataService.py", line 10, in runModel
+    return self.model(inputData)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\ML_Model\createModel.py", line 7, in ML
+    emailData = emailParser(inputData)
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\Parsers\EmailParser.py", line 75, in emailParser
+    fromAddress = re.search('<(.*?)>', str(pData.loc["From"])).group(1)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'group'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\uvicorn\protocols\http\httptools_impl.py", line 411, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 69, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\errors.py", line 186, in __call__
+    raise exc
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\exceptions.py", line 65, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 756, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 776, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\routing.py", line 278, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\routing.py", line 193, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\concurrency.py", line 42, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\anyio\to_thread.py", line 56, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 2144, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 851, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\Controllers\EmailDataController.py", line 20, in runModel
+    raise HTTPException(status_code=e.status_code, detail=str(e.detail))
+                                    ^^^^^^^^^^^^^
+AttributeError: 'AttributeError' object has no attribute 'status_code'
+2024-06-11 01:53:43,514 - uvicorn.error - WARNING - WatchFiles detected changes in 'Parsers\EmailParser.py'. Reloading...
+2024-06-11 01:53:45,642 - uvicorn.error - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\Controllers\EmailDataController.py", line 18, in runModel
+    return self.emailDataService.runModel(emailData)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\Services\EmailDataService.py", line 10, in runModel
+    return self.model(inputData)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\ML_Model\createModel.py", line 7, in ML
+    emailData = emailParser(inputData)
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\Parsers\EmailParser.py", line 75, in emailParser
+    fromAddress = re.search('<(.*?)>', str(pData.loc["From"])).group(1)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'group'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\uvicorn\protocols\http\httptools_impl.py", line 411, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 69, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\errors.py", line 186, in __call__
+    raise exc
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\exceptions.py", line 65, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 756, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 776, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\routing.py", line 278, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\routing.py", line 193, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\concurrency.py", line 42, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\anyio\to_thread.py", line 56, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 2144, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 851, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\Controllers\EmailDataController.py", line 20, in runModel
+    raise HTTPException(status_code=e.status_code, detail=str(e.detail))
+                                    ^^^^^^^^^^^^^
+AttributeError: 'AttributeError' object has no attribute 'status_code'
+2024-06-11 01:54:26,344 - uvicorn.error - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\Controllers\EmailDataController.py", line 18, in runModel
+    return self.emailDataService.runModel(emailData)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\Services\EmailDataService.py", line 10, in runModel
+    return self.model(inputData)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\ML_Model\createModel.py", line 7, in ML
+    emailData = emailParser(inputData)
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\Parsers\EmailParser.py", line 75, in emailParser
+    fromAddress = re.search('<(.*?)>', str(pData.loc["From"])).group(1)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'group'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\uvicorn\protocols\http\httptools_impl.py", line 411, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 69, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\errors.py", line 186, in __call__
+    raise exc
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\exceptions.py", line 65, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 756, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 776, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\routing.py", line 278, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\routing.py", line 193, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\concurrency.py", line 42, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\anyio\to_thread.py", line 56, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 2144, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 851, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\Controllers\EmailDataController.py", line 20, in runModel
+    raise HTTPException(status_code=e, detail=str(e))
+                                    ^^^^^^^^^^^^^
+AttributeError: 'AttributeError' object has no attribute 'status_code'
+2024-06-11 01:54:27,080 - uvicorn.error - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\Controllers\EmailDataController.py", line 18, in runModel
+    return self.emailDataService.runModel(emailData)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\Services\EmailDataService.py", line 10, in runModel
+    return self.model(inputData)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\ML_Model\createModel.py", line 7, in ML
+    emailData = emailParser(inputData)
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\Parsers\EmailParser.py", line 75, in emailParser
+    fromAddress = re.search('<(.*?)>', str(pData.loc["From"])).group(1)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'group'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\uvicorn\protocols\http\httptools_impl.py", line 411, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 69, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\errors.py", line 186, in __call__
+    raise exc
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\exceptions.py", line 65, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 756, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 776, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\routing.py", line 278, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\routing.py", line 193, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\concurrency.py", line 42, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\anyio\to_thread.py", line 56, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 2144, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 851, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\Controllers\EmailDataController.py", line 20, in runModel
+    raise HTTPException(status_code=e, detail=str(e))
+                                    ^^^^^^^^^^^^^
+AttributeError: 'AttributeError' object has no attribute 'status_code'
+2024-06-11 01:54:38,259 - uvicorn.error - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\Controllers\EmailDataController.py", line 18, in runModel
+    return self.emailDataService.runModel(emailData)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\Services\EmailDataService.py", line 10, in runModel
+    return self.model(inputData)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\ML_Model\createModel.py", line 7, in ML
+    emailData = emailParser(inputData)
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\Parsers\EmailParser.py", line 75, in emailParser
+    fromAddress = re.search('<(.*?)>', str(pData.loc["From"])).group(1)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'group'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\uvicorn\protocols\http\httptools_impl.py", line 411, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 69, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\errors.py", line 186, in __call__
+    raise exc
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\exceptions.py", line 65, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 756, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 776, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\routing.py", line 278, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\routing.py", line 193, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\concurrency.py", line 42, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\anyio\to_thread.py", line 56, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 2144, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 851, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\Controllers\EmailDataController.py", line 20, in runModel
+    raise HTTPException(status_code=e, detail=str(e))
+                                    ^^^^^^^^^^^^^
+AttributeError: 'AttributeError' object has no attribute 'status_code'
+2024-06-11 01:55:18,183 - uvicorn.error - INFO - Shutting down
+2024-06-11 01:55:18,291 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-06-11 01:55:18,296 - uvicorn.error - INFO - Application shutdown complete.
+2024-06-11 01:55:18,299 - uvicorn.error - INFO - Finished server process [11660]
+2024-06-11 01:55:19,790 - uvicorn.error - WARNING - WatchFiles detected changes in 'Controllers\EmailDataController.py'. Reloading...
+2024-06-11 01:55:23,756 - uvicorn.error - INFO - Started server process [16884]
+2024-06-11 01:55:23,757 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-11 01:55:23,757 - uvicorn.error - INFO - Application startup complete.
+2024-06-11 01:55:29,909 - uvicorn.error - WARNING - WatchFiles detected changes in 'Parsers\EmailParser.py'. Reloading...
+2024-06-11 01:55:31,819 - uvicorn.error - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\Controllers\EmailDataController.py", line 18, in runModel
+    return self.emailDataService.runModel(emailData)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\Services\EmailDataService.py", line 10, in runModel
+    return self.model(inputData)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\ML_Model\createModel.py", line 7, in ML
+    emailData = emailParser(inputData)
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\Parsers\EmailParser.py", line 75, in emailParser
+    fromAddress = re.search('<(.*?)>', str(pData.loc["From"])).group(1)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'group'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\routing.py", line 278, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\routing.py", line 193, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\concurrency.py", line 42, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\anyio\to_thread.py", line 56, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 2144, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 851, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\Controllers\EmailDataController.py", line 20, in runModel
+    raise HTTPException(status_code=e, detail=str(e))
+fastapi.exceptions.HTTPException: 'NoneType' object has no attribute 'group': 'NoneType' object has no attribute 'group'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\uvicorn\protocols\http\httptools_impl.py", line 411, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 69, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\errors.py", line 186, in __call__
+    raise exc
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\exceptions.py", line 65, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 756, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 776, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 75, in wrapped_app
+    response = await handler(conn, exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\exception_handlers.py", line 13, in http_exception_handler
+    if not is_body_allowed_for_status_code(exc.status_code):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\utils.py", line 55, in is_body_allowed_for_status_code
+    current_status_code = int(status_code)
+                          ^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'AttributeError'
+2024-06-11 01:55:31,893 - uvicorn.error - INFO - Shutting down
+2024-06-11 01:55:32,003 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-06-11 01:55:32,003 - uvicorn.error - INFO - Application shutdown complete.
+2024-06-11 01:55:32,004 - uvicorn.error - INFO - Finished server process [16884]
+2024-06-11 01:55:34,960 - uvicorn.error - INFO - Started server process [6424]
+2024-06-11 01:55:34,960 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-11 01:55:34,960 - uvicorn.error - INFO - Application startup complete.
+2024-06-11 01:56:30,584 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\CommunicationModule"]
+2024-06-11 01:56:30,585 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-06-11 01:56:30,585 - uvicorn.error - INFO - Started reloader process [13296] using WatchFiles
+2024-06-11 01:56:32,562 - uvicorn.error - INFO - Started server process [11204]
+2024-06-11 01:56:32,562 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-11 01:56:32,563 - uvicorn.error - INFO - Application startup complete.
+2024-06-11 01:56:36,050 - uvicorn.error - INFO - Shutting down
+2024-06-11 01:56:36,158 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-06-11 01:56:36,158 - uvicorn.error - INFO - Application shutdown complete.
+2024-06-11 01:56:36,158 - uvicorn.error - INFO - Finished server process [11204]
+2024-06-11 01:56:36,428 - uvicorn.error - INFO - Stopping reloader process [13296]
+2024-06-11 01:56:41,995 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\CommunicationModule"]
+2024-06-11 01:56:41,996 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-06-11 01:56:41,996 - uvicorn.error - INFO - Started reloader process [18384] using WatchFiles
+2024-06-11 01:56:43,929 - uvicorn.error - INFO - Started server process [5656]
+2024-06-11 01:56:43,929 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-11 01:56:43,929 - uvicorn.error - INFO - Application startup complete.
+2024-06-11 01:56:58,604 - uvicorn.error - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\Controllers\EmailDataController.py", line 18, in runModel
+    return self.emailDataService.runModel(emailData)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\Services\EmailDataService.py", line 10, in runModel
+    return self.model(inputData)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\ML_Model\createModel.py", line 7, in ML
+    emailData = emailParser(inputData)
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\Parsers\EmailParser.py", line 75, in emailParser
+    fromAddress = re.search('<(.*?)>', str(pData.loc["From"])).group(1)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'group'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\uvicorn\protocols\http\httptools_impl.py", line 411, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 69, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\errors.py", line 186, in __call__
+    raise exc
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\exceptions.py", line 65, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 756, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 776, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\routing.py", line 278, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\routing.py", line 193, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\concurrency.py", line 42, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\anyio\to_thread.py", line 56, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 2144, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 851, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\Controllers\EmailDataController.py", line 20, in runModel
+    raise HTTPException(status_code=e.status_code, detail=str(e.detail))
+                                    ^^^^^^^^^^^^^
+AttributeError: 'AttributeError' object has no attribute 'status_code'
+2024-06-11 01:57:36,497 - uvicorn.error - INFO - Shutting down
+2024-06-11 01:57:36,605 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-06-11 01:57:36,605 - uvicorn.error - INFO - Application shutdown complete.
+2024-06-11 01:57:36,606 - uvicorn.error - INFO - Finished server process [5656]
+2024-06-11 01:57:36,868 - uvicorn.error - INFO - Stopping reloader process [18384]
+2024-06-11 01:57:39,329 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\CommunicationModule"]
+2024-06-11 01:57:39,330 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-06-11 01:57:39,330 - uvicorn.error - INFO - Started reloader process [6496] using WatchFiles
+2024-06-11 01:57:41,713 - uvicorn.error - INFO - Started server process [8060]
+2024-06-11 01:57:41,713 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-11 01:57:41,714 - uvicorn.error - INFO - Application startup complete.
+2024-06-11 01:58:11,286 - uvicorn.error - INFO - Shutting down
+2024-06-11 01:58:11,394 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-06-11 01:58:11,394 - uvicorn.error - INFO - Application shutdown complete.
+2024-06-11 01:58:11,394 - uvicorn.error - INFO - Finished server process [8060]
+2024-06-11 01:58:11,690 - uvicorn.error - INFO - Stopping reloader process [6496]
+2024-06-11 01:58:13,352 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\CommunicationModule"]
+2024-06-11 01:58:13,352 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-06-11 01:58:13,354 - uvicorn.error - INFO - Started reloader process [10548] using WatchFiles
+2024-06-11 01:58:15,560 - uvicorn.error - INFO - Started server process [13600]
+2024-06-11 01:58:15,561 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-11 01:58:15,561 - uvicorn.error - INFO - Application startup complete.
+2024-06-11 01:59:25,259 - uvicorn.error - WARNING - WatchFiles detected changes in 'Controllers\EmailDataController.py'. Reloading...
+2024-06-11 01:59:37,642 - uvicorn.error - INFO - Shutting down
+2024-06-11 01:59:37,750 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-06-11 01:59:37,750 - uvicorn.error - INFO - Application shutdown complete.
+2024-06-11 01:59:37,751 - uvicorn.error - INFO - Finished server process [13600]
+2024-06-11 01:59:41,020 - uvicorn.error - INFO - Started server process [11568]
+2024-06-11 01:59:41,021 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-11 01:59:41,021 - uvicorn.error - INFO - Application startup complete.
+2024-06-11 01:59:43,329 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\CommunicationModule"]
+2024-06-11 01:59:43,330 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-06-11 01:59:43,330 - uvicorn.error - INFO - Started reloader process [12016] using WatchFiles
+2024-06-11 01:59:45,718 - uvicorn.error - INFO - Started server process [17576]
+2024-06-11 01:59:45,718 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-11 01:59:45,719 - uvicorn.error - INFO - Application startup complete.
+2024-06-11 02:00:14,189 - uvicorn.error - INFO - Shutting down
+2024-06-11 02:00:14,300 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-06-11 02:00:14,300 - uvicorn.error - INFO - Application shutdown complete.
+2024-06-11 02:00:14,301 - uvicorn.error - INFO - Finished server process [17576]
+2024-06-11 02:00:14,581 - uvicorn.error - INFO - Stopping reloader process [12016]
+2024-06-11 02:00:17,028 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\CommunicationModule"]
+2024-06-11 02:00:17,029 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-06-11 02:00:17,030 - uvicorn.error - INFO - Started reloader process [7860] using WatchFiles
+2024-06-11 02:00:19,081 - uvicorn.error - INFO - Started server process [10900]
+2024-06-11 02:00:19,081 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-11 02:00:19,081 - uvicorn.error - INFO - Application startup complete.
+2024-06-11 02:01:15,645 - uvicorn.error - WARNING - WatchFiles detected changes in 'Controllers\EmailDataController.py'. Reloading...
+2024-06-11 02:01:27,531 - uvicorn.error - INFO - Shutting down
+2024-06-11 02:01:27,641 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-06-11 02:01:27,641 - uvicorn.error - INFO - Application shutdown complete.
+2024-06-11 02:01:27,641 - uvicorn.error - INFO - Finished server process [10900]
+2024-06-11 02:01:29,849 - uvicorn.error - INFO - Started server process [15220]
+2024-06-11 02:01:29,849 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-11 02:01:29,850 - uvicorn.error - INFO - Application startup complete.
+2024-06-11 02:02:06,856 - uvicorn.error - WARNING - WatchFiles detected changes in 'test.py'. Reloading...
+2024-06-11 02:05:16,582 - uvicorn.error - INFO - Shutting down
+2024-06-11 02:05:16,690 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-06-11 02:05:16,692 - uvicorn.error - INFO - Application shutdown complete.
+2024-06-11 02:05:16,692 - uvicorn.error - INFO - Finished server process [15220]
+2024-06-11 02:05:17,704 - uvicorn.error - WARNING - WatchFiles detected changes in 'test.py'. Reloading...
+2024-06-11 02:05:20,855 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\CommunicationModule"]
+2024-06-11 02:05:20,856 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-06-11 02:05:20,856 - uvicorn.error - INFO - Started reloader process [9124] using WatchFiles
+2024-06-11 02:05:23,391 - uvicorn.error - INFO - Started server process [8312]
+2024-06-11 02:05:23,391 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-11 02:05:23,392 - uvicorn.error - INFO - Application startup complete.
+2024-06-11 02:05:44,486 - uvicorn.error - INFO - Shutting down
+2024-06-11 02:05:44,597 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-06-11 02:05:44,597 - uvicorn.error - INFO - Application shutdown complete.
+2024-06-11 02:05:44,597 - uvicorn.error - INFO - Finished server process [8312]
+2024-06-11 02:05:44,878 - uvicorn.error - INFO - Stopping reloader process [9124]
+2024-06-11 02:48:22,472 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\CommunicationModule"]
+2024-06-11 02:48:22,473 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-06-11 02:48:22,473 - uvicorn.error - INFO - Started reloader process [13680] using WatchFiles
+2024-06-11 02:48:24,256 - uvicorn.error - INFO - Started server process [15352]
+2024-06-11 02:48:24,257 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-11 02:48:24,257 - uvicorn.error - INFO - Application startup complete.
+2024-06-11 02:50:27,230 - uvicorn.error - WARNING - WatchFiles detected changes in 'Parsers\EmailParser.py'. Reloading...
+2024-06-11 02:51:56,378 - uvicorn.error - INFO - Shutting down
+2024-06-11 02:51:56,501 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-06-11 02:51:56,506 - uvicorn.error - INFO - Application shutdown complete.
+2024-06-11 02:51:56,508 - uvicorn.error - INFO - Finished server process [15352]
+2024-06-11 02:51:57,471 - uvicorn.error - WARNING - WatchFiles detected changes in 'Parsers\EmailParser.py'. Reloading...
+2024-06-11 02:51:59,894 - uvicorn.error - INFO - Started server process [7708]
+2024-06-11 02:51:59,895 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-11 02:51:59,895 - uvicorn.error - INFO - Application startup complete.
+2024-06-11 02:51:59,899 - uvicorn.error - ERROR - Traceback (most recent call last):
+  File "C:\Python312\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\asyncio\base_events.py", line 684, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python312\Lib\asyncio\runners.py", line 194, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\asyncio\runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 741, in lifespan
+    await receive()
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\uvicorn\lifespan\on.py", line 137, in receive
+    return await self.receive_queue.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\asyncio\queues.py", line 158, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+2024-06-11 02:52:02,649 - uvicorn.error - INFO - Started server process [3552]
+2024-06-11 02:52:02,649 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-11 02:52:02,649 - uvicorn.error - INFO - Application startup complete.
+2024-06-11 02:52:14,935 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\CommunicationModule"]
+2024-06-11 02:52:14,935 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-06-11 02:52:14,935 - uvicorn.error - INFO - Started reloader process [7952] using WatchFiles
+2024-06-11 02:52:16,530 - uvicorn.error - INFO - Started server process [3024]
+2024-06-11 02:52:16,531 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-11 02:52:16,531 - uvicorn.error - INFO - Application startup complete.
+2024-06-11 02:54:17,014 - uvicorn.error - WARNING - WatchFiles detected changes in 'ML_Model\createModel.py'. Reloading...
+2024-06-11 02:54:22,301 - uvicorn.error - INFO - Shutting down
+2024-06-11 02:54:22,409 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-06-11 02:54:22,409 - uvicorn.error - INFO - Application shutdown complete.
+2024-06-11 02:54:22,410 - uvicorn.error - INFO - Finished server process [3024]
+2024-06-11 02:54:29,675 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\CommunicationModule"]
+2024-06-11 02:54:29,676 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-06-11 02:54:29,676 - uvicorn.error - INFO - Started reloader process [4432] using WatchFiles
+2024-06-11 02:54:31,942 - uvicorn.error - INFO - Started server process [9764]
+2024-06-11 02:54:31,943 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-11 02:54:31,943 - uvicorn.error - INFO - Application startup complete.
+2024-06-11 02:55:48,960 - uvicorn.error - INFO - Shutting down
+2024-06-11 02:55:49,068 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-06-11 02:55:49,068 - uvicorn.error - INFO - Application shutdown complete.
+2024-06-11 02:55:49,069 - uvicorn.error - INFO - Finished server process [9764]
+2024-06-11 02:55:49,334 - uvicorn.error - INFO - Stopping reloader process [4432]
+2024-06-11 02:55:51,061 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\CommunicationModule"]
+2024-06-11 02:55:51,061 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-06-11 02:55:51,062 - uvicorn.error - INFO - Started reloader process [1736] using WatchFiles
+2024-06-11 02:55:53,150 - uvicorn.error - INFO - Started server process [14968]
+2024-06-11 02:55:53,151 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-11 02:55:53,151 - uvicorn.error - INFO - Application startup complete.
+2024-06-11 02:56:34,965 - uvicorn.error - INFO - Shutting down
+2024-06-11 02:56:35,075 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-06-11 02:56:35,075 - uvicorn.error - INFO - Application shutdown complete.
+2024-06-11 02:56:35,075 - uvicorn.error - INFO - Finished server process [14968]
+2024-06-11 02:56:35,316 - uvicorn.error - INFO - Stopping reloader process [1736]
+2024-06-11 02:56:39,153 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\CommunicationModule"]
+2024-06-11 02:56:39,154 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-06-11 02:56:39,154 - uvicorn.error - INFO - Started reloader process [9672] using WatchFiles
+2024-06-11 02:56:40,873 - uvicorn.error - INFO - Started server process [11780]
+2024-06-11 02:56:40,874 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-11 02:56:40,874 - uvicorn.error - INFO - Application startup complete.
+2024-06-11 02:57:39,645 - uvicorn.error - WARNING - WatchFiles detected changes in 'ttt.py'. Reloading...
+2024-06-11 02:58:07,377 - uvicorn.error - INFO - Shutting down
+2024-06-11 02:58:07,487 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-06-11 02:58:07,487 - uvicorn.error - INFO - Application shutdown complete.
+2024-06-11 02:58:07,487 - uvicorn.error - INFO - Finished server process [11780]
+2024-06-11 02:58:08,098 - uvicorn.error - WARNING - WatchFiles detected changes in 'ttt.py'. Reloading...
+2024-06-11 02:58:23,189 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\CommunicationModule"]
+2024-06-11 02:58:23,189 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-06-11 02:58:23,190 - uvicorn.error - INFO - Started reloader process [18120] using WatchFiles
+2024-06-11 02:58:24,992 - uvicorn.error - INFO - Started server process [3652]
+2024-06-11 02:58:24,992 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-11 02:58:24,992 - uvicorn.error - INFO - Application startup complete.
+2024-06-11 02:58:34,781 - uvicorn.error - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\encoders.py", line 322, in jsonable_encoder
+    data = dict(obj)
+           ^^^^^^^^^
+TypeError: 'numpy.int32' object is not iterable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\encoders.py", line 327, in jsonable_encoder
+    data = vars(obj)
+           ^^^^^^^^^
+TypeError: vars() argument must have __dict__ attribute
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\uvicorn\protocols\http\httptools_impl.py", line 411, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 69, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\errors.py", line 186, in __call__
+    raise exc
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\exceptions.py", line 65, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 756, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 776, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\routing.py", line 296, in app
+    content = await serialize_response(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\routing.py", line 180, in serialize_response
+    return jsonable_encoder(response_content)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\encoders.py", line 330, in jsonable_encoder
+    raise ValueError(errors) from e
+ValueError: [TypeError("'numpy.int32' object is not iterable"), TypeError('vars() argument must have __dict__ attribute')]
+2024-06-11 02:59:24,075 - uvicorn.error - WARNING - WatchFiles detected changes in 'ML_Model\createModel.py'. Reloading...
+2024-06-11 02:59:39,824 - uvicorn.error - INFO - Shutting down
+2024-06-11 02:59:41,642 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\CommunicationModule"]
+2024-06-11 02:59:41,643 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-06-11 02:59:41,643 - uvicorn.error - INFO - Started reloader process [17568] using WatchFiles
+2024-06-11 02:59:44,255 - uvicorn.error - INFO - Started server process [12360]
+2024-06-11 02:59:44,256 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-11 02:59:44,256 - uvicorn.error - INFO - Application startup complete.
+2024-06-11 02:59:56,431 - uvicorn.error - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\encoders.py", line 322, in jsonable_encoder
+    data = dict(obj)
+           ^^^^^^^^^
+TypeError: cannot convert dictionary update sequence element #0 to a sequence
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\encoders.py", line 327, in jsonable_encoder
+    data = vars(obj)
+           ^^^^^^^^^
+TypeError: vars() argument must have __dict__ attribute
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\uvicorn\protocols\http\httptools_impl.py", line 411, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 69, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\errors.py", line 186, in __call__
+    raise exc
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\exceptions.py", line 65, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 756, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 776, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\routing.py", line 296, in app
+    content = await serialize_response(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\routing.py", line 180, in serialize_response
+    return jsonable_encoder(response_content)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\fastapi\encoders.py", line 330, in jsonable_encoder
+    raise ValueError(errors) from e
+ValueError: [TypeError('cannot convert dictionary update sequence element #0 to a sequence'), TypeError('vars() argument must have __dict__ attribute')]
+2024-06-11 03:04:17,229 - uvicorn.error - INFO - Shutting down
+2024-06-11 03:04:21,360 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\CommunicationModule"]
+2024-06-11 03:04:21,360 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-06-11 03:04:21,361 - uvicorn.error - INFO - Started reloader process [19140] using WatchFiles
+2024-06-11 03:04:23,909 - uvicorn.error - INFO - Started server process [18216]
+2024-06-11 03:04:23,910 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-11 03:04:23,910 - uvicorn.error - INFO - Application startup complete.
+2024-06-11 03:04:23,916 - uvicorn.error - ERROR - Traceback (most recent call last):
+  File "C:\Python312\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\asyncio\base_events.py", line 684, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python312\Lib\asyncio\runners.py", line 194, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\asyncio\runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 741, in lifespan
+    await receive()
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\CommunicationModule\.venv\Lib\site-packages\uvicorn\lifespan\on.py", line 137, in receive
+    return await self.receive_queue.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\asyncio\queues.py", line 158, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+2024-06-11 03:04:24,189 - uvicorn.error - INFO - Stopping reloader process [19140]
+2024-06-11 03:06:34,561 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\CommunicationModule"]
+2024-06-11 03:06:34,561 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-06-11 03:06:34,562 - uvicorn.error - INFO - Started reloader process [15476] using WatchFiles
+2024-06-11 03:06:36,403 - uvicorn.error - INFO - Started server process [4276]
+2024-06-11 03:06:36,404 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-11 03:06:36,405 - uvicorn.error - INFO - Application startup complete.
+2024-06-11 03:09:33,830 - uvicorn.error - INFO - Shutting down
+2024-06-11 03:09:33,939 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-06-11 03:09:33,941 - uvicorn.error - INFO - Application shutdown complete.
+2024-06-11 03:09:33,941 - uvicorn.error - INFO - Finished server process [4276]
+2024-06-11 03:09:34,528 - uvicorn.error - INFO - Stopping reloader process [15476]
+2024-06-11 18:12:13,322 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\CommunicationModule"]
+2024-06-11 18:12:13,323 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-06-11 18:12:13,323 - uvicorn.error - INFO - Started reloader process [8388] using WatchFiles
+2024-06-11 18:12:16,719 - uvicorn.error - INFO - Started server process [12444]
+2024-06-11 18:12:16,720 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-11 18:12:16,720 - uvicorn.error - INFO - Application startup complete.
+2024-06-11 18:33:40,137 - uvicorn.error - INFO - Shutting down
+2024-06-11 18:33:40,262 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-06-11 18:33:40,266 - uvicorn.error - INFO - Application shutdown complete.
+2024-06-11 18:33:40,268 - uvicorn.error - INFO - Finished server process [12444]
+2024-06-11 18:33:41,011 - uvicorn.error - INFO - Stopping reloader process [8388]
+2024-06-11 19:05:07,984 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\CommunicationModule"]
+2024-06-11 19:05:07,985 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-06-11 19:05:07,985 - uvicorn.error - INFO - Started reloader process [8344] using WatchFiles
+2024-06-11 19:05:10,933 - uvicorn.error - INFO - Started server process [7140]
+2024-06-11 19:05:10,933 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-11 19:05:10,934 - uvicorn.error - INFO - Application startup complete.
+2024-06-11 19:50:01,868 - uvicorn.error - INFO - Shutting down
+2024-06-11 19:50:02,018 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-06-11 19:50:02,034 - uvicorn.error - INFO - Application shutdown complete.
+2024-06-11 19:50:02,036 - uvicorn.error - INFO - Finished server process [7140]
+2024-06-11 19:50:02,860 - uvicorn.error - INFO - Stopping reloader process [8344]
+2024-06-15 21:15:48,343 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\CommunicationModule"]
+2024-06-15 21:15:48,344 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-06-15 21:15:48,345 - uvicorn.error - INFO - Started reloader process [15800] using WatchFiles
+2024-06-15 21:15:51,566 - uvicorn.error - INFO - Started server process [14712]
+2024-06-15 21:15:51,566 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-15 21:15:51,567 - uvicorn.error - INFO - Application startup complete.
+2024-06-15 21:15:51,786 - uvicorn.error - INFO - Shutting down
+2024-06-15 21:15:51,894 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-06-15 21:15:51,894 - uvicorn.error - INFO - Application shutdown complete.
+2024-06-15 21:15:51,894 - uvicorn.error - INFO - Finished server process [14712]
+2024-06-15 21:15:52,248 - uvicorn.error - INFO - Stopping reloader process [15800]
