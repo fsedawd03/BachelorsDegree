@@ -31,7 +31,7 @@ def emailParser(emailData: EmailData) -> pd.DataFrame:
     body = emailData.emailBody
 
     pData = pd.DataFrame(data=h.values(), index=h.keys()).loc[
-        ["From", "Subject", "To", "Return-Path", "ARC-Authentication-Results"]]
+        ["From", "Subject", "To", "Return-Path", "Authentication-Results"]]
 
     emailDic = {
         "DKIM": -1,  # Checks whether the email passed the dkim check
@@ -54,14 +54,14 @@ def emailParser(emailData: EmailData) -> pd.DataFrame:
                      "Suspended", "Urgent"]
 
     # Verify Dkim, spf, arc and dmarc passes
-    for index, arcMsg in pData.loc["ARC-Authentication-Results"].iterrows():
-        if "dkim=pass" in arcMsg[0]:
+    for arcMsg in pData.loc["Authentication-Results"]:
+        if "dkim=pass" in arcMsg:
             emailDic["DKIM"] = 1
-        if "spf=pass" in arcMsg[0]:
+        if "spf=pass" in arcMsg:
             emailDic["SPF"] = 1
-        if "dmarc=pass" in arcMsg[0]:
+        if "dmarc=pass" in arcMsg:
             emailDic["DMARC"] = 1
-        if "arc=pass" in arcMsg[0]:
+        if "arc=pass" in arcMsg:
             emailDic["ARC"] = 1
 
     # Verify body html,form button and verifyAcc

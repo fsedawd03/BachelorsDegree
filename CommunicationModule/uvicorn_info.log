@@ -62,3 +62,99 @@
 2024-06-11 18:12:55,327 - uvicorn.access - INFO - 127.0.0.1:64751 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
 2024-06-11 19:05:17,909 - uvicorn.access - INFO - 127.0.0.1:2117 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
 2024-06-11 19:05:19,099 - uvicorn.access - INFO - 127.0.0.1:2117 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-17 22:54:33,997 - uvicorn.access - INFO - 127.0.0.1:39175 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-17 22:58:04,742 - uvicorn.access - INFO - 127.0.0.1:15063 - "OPTIONS /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-17 23:00:28,937 - uvicorn.access - INFO - 127.0.0.1:20927 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-17 23:00:34,948 - uvicorn.access - INFO - 127.0.0.1:8814 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-17 23:02:48,720 - uvicorn.access - INFO - 127.0.0.1:38340 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-17 23:06:20,706 - uvicorn.access - INFO - 127.0.0.1:31049 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-17 23:08:05,705 - uvicorn.access - INFO - 127.0.0.1:58753 - "OPTIONS /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-17 23:08:05,731 - uvicorn.access - INFO - 127.0.0.1:58753 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-17 23:11:04,793 - uvicorn.access - INFO - 127.0.0.1:10425 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-17 23:12:43,497 - uvicorn.access - INFO - 127.0.0.1:64569 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-17 23:13:00,884 - uvicorn.access - INFO - 127.0.0.1:64583 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-17 23:16:07,737 - uvicorn.access - INFO - 127.0.0.1:29028 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-17 23:17:10,688 - uvicorn.access - INFO - 127.0.0.1:29574 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-17 23:17:48,056 - uvicorn.access - INFO - 127.0.0.1:47640 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-17 23:18:00,332 - uvicorn.access - INFO - 127.0.0.1:47655 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-17 23:23:16,770 - uvicorn.access - INFO - 127.0.0.1:57709 - "OPTIONS /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-17 23:23:16,796 - uvicorn.access - INFO - 127.0.0.1:57709 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-17 23:26:33,888 - uvicorn.access - INFO - 127.0.0.1:17582 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-17 23:27:10,666 - uvicorn.access - INFO - 127.0.0.1:9770 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-17 23:27:35,689 - uvicorn.access - INFO - 127.0.0.1:12601 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-17 23:29:38,865 - uvicorn.access - INFO - 127.0.0.1:42887 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-17 23:43:24,435 - uvicorn.access - INFO - 127.0.0.1:31240 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-17 23:43:35,838 - uvicorn.access - INFO - 127.0.0.1:31249 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-17 23:45:14,749 - uvicorn.access - INFO - 127.0.0.1:10895 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-17 23:48:35,687 - uvicorn.access - INFO - 127.0.0.1:64484 - "OPTIONS /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-17 23:48:35,705 - uvicorn.access - INFO - 127.0.0.1:64484 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-17 23:50:20,186 - uvicorn.access - INFO - 127.0.0.1:49233 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-17 23:52:12,022 - uvicorn.access - INFO - 127.0.0.1:62698 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-17 23:53:41,781 - uvicorn.access - INFO - 127.0.0.1:63163 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-17 23:54:07,667 - uvicorn.access - INFO - 127.0.0.1:63842 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-17 23:58:47,118 - uvicorn.access - INFO - 127.0.0.1:55751 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-17 23:59:43,751 - uvicorn.access - INFO - 127.0.0.1:51067 - "OPTIONS /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-17 23:59:43,766 - uvicorn.access - INFO - 127.0.0.1:51067 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 00:01:06,778 - uvicorn.access - INFO - 127.0.0.1:8279 - "POST /v1.0/phishing/runModel HTTP/1.1" 500 Internal Server Error
+2024-06-18 00:07:34,741 - uvicorn.access - INFO - 127.0.0.1:16816 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 00:09:04,793 - uvicorn.access - INFO - 127.0.0.1:61069 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 00:09:13,269 - uvicorn.access - INFO - 127.0.0.1:61080 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-18 00:09:36,934 - uvicorn.access - INFO - 127.0.0.1:33035 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 00:10:29,781 - uvicorn.access - INFO - 127.0.0.1:15338 - "OPTIONS /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-18 00:10:29,837 - uvicorn.access - INFO - 127.0.0.1:15338 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 00:12:40,827 - uvicorn.access - INFO - 127.0.0.1:53795 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 00:15:55,248 - uvicorn.access - INFO - 127.0.0.1:30316 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 00:16:01,136 - uvicorn.access - INFO - 127.0.0.1:30324 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 00:17:17,792 - uvicorn.access - INFO - 127.0.0.1:52028 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 00:43:55,024 - uvicorn.access - INFO - 127.0.0.1:29076 - "OPTIONS /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-18 00:43:55,375 - uvicorn.access - INFO - 127.0.0.1:29076 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 00:44:55,658 - uvicorn.access - INFO - 127.0.0.1:52687 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 00:47:31,818 - uvicorn.access - INFO - 127.0.0.1:17077 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 00:49:01,053 - uvicorn.access - INFO - 127.0.0.1:20559 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 00:52:36,638 - uvicorn.access - INFO - 127.0.0.1:64293 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-18 00:52:47,817 - uvicorn.access - INFO - 127.0.0.1:64308 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 00:57:36,436 - uvicorn.access - INFO - 127.0.0.1:60437 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-18 00:57:52,727 - uvicorn.access - INFO - 127.0.0.1:60448 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 00:58:03,458 - uvicorn.access - INFO - 127.0.0.1:55975 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 00:58:59,931 - uvicorn.access - INFO - 127.0.0.1:56022 - "OPTIONS /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-18 00:58:59,967 - uvicorn.access - INFO - 127.0.0.1:56022 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 01:01:24,669 - uvicorn.access - INFO - 127.0.0.1:41184 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 01:02:33,654 - uvicorn.access - INFO - 127.0.0.1:54401 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 01:02:42,629 - uvicorn.access - INFO - 127.0.0.1:54415 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 01:03:59,873 - uvicorn.access - INFO - 127.0.0.1:29554 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-18 01:04:42,673 - uvicorn.access - INFO - 127.0.0.1:29226 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 01:07:21,647 - uvicorn.access - INFO - 127.0.0.1:65145 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 01:07:51,714 - uvicorn.access - INFO - 127.0.0.1:58725 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 01:08:28,644 - uvicorn.access - INFO - 127.0.0.1:40061 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 01:08:59,668 - uvicorn.access - INFO - 127.0.0.1:25102 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 01:10:36,759 - uvicorn.access - INFO - 127.0.0.1:18344 - "OPTIONS /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-18 01:10:36,905 - uvicorn.access - INFO - 127.0.0.1:18344 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 01:11:33,667 - uvicorn.access - INFO - 127.0.0.1:39516 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 01:12:08,695 - uvicorn.access - INFO - 127.0.0.1:32425 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 01:13:01,651 - uvicorn.access - INFO - 127.0.0.1:53355 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 01:13:18,567 - uvicorn.access - INFO - 127.0.0.1:26609 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-18 01:14:50,848 - uvicorn.access - INFO - 127.0.0.1:44683 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-18 01:16:06,790 - uvicorn.access - INFO - 127.0.0.1:1465 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 01:17:09,907 - uvicorn.access - INFO - 127.0.0.1:15936 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-18 01:18:52,864 - uvicorn.access - INFO - 127.0.0.1:48026 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-18 01:20:02,829 - uvicorn.access - INFO - 127.0.0.1:11538 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 01:20:36,844 - uvicorn.access - INFO - 127.0.0.1:11573 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-18 01:21:26,105 - uvicorn.access - INFO - 127.0.0.1:64133 - "OPTIONS /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-18 01:21:26,158 - uvicorn.access - INFO - 127.0.0.1:64133 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 01:22:29,684 - uvicorn.access - INFO - 127.0.0.1:58079 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-18 01:23:20,200 - uvicorn.access - INFO - 127.0.0.1:13524 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 01:25:15,076 - uvicorn.access - INFO - 127.0.0.1:27199 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 01:25:48,003 - uvicorn.access - INFO - 127.0.0.1:25335 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 01:27:12,012 - uvicorn.access - INFO - 127.0.0.1:1962 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-06-18 01:29:12,493 - uvicorn.access - INFO - 127.0.0.1:12381 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-18 01:30:15,919 - uvicorn.access - INFO - 127.0.0.1:17348 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-18 01:31:11,156 - uvicorn.access - INFO - 127.0.0.1:28679 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-18 01:32:46,841 - uvicorn.access - INFO - 127.0.0.1:60501 - "OPTIONS /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-18 01:32:46,871 - uvicorn.access - INFO - 127.0.0.1:60501 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-18 01:35:44,646 - uvicorn.access - INFO - 127.0.0.1:9463 - "OPTIONS /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-18 01:35:44,725 - uvicorn.access - INFO - 127.0.0.1:9463 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-18 01:38:17,786 - uvicorn.access - INFO - 127.0.0.1:51019 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-18 01:39:03,150 - uvicorn.access - INFO - 127.0.0.1:24049 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-18 01:39:41,435 - uvicorn.access - INFO - 127.0.0.1:24116 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-18 01:41:25,396 - uvicorn.access - INFO - 127.0.0.1:18086 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-06-18 01:42:13,913 - uvicorn.access - INFO - 127.0.0.1:38554 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK

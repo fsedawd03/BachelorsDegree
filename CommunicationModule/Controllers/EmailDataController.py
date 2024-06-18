@@ -17,4 +17,4 @@ class EmailDataController:
         try:
             return self.emailDataService.runModel(emailData)
         except Exception as e:
-            raise HTTPException(status_code=500, detail=str(e))
+            raise HTTPException(status_code=422, detail=str(e))

@@ -1212,3 +1212,137 @@ asyncio.exceptions.CancelledError
 2024-06-15 21:15:51,894 - uvicorn.error - INFO - Application shutdown complete.
 2024-06-15 21:15:51,894 - uvicorn.error - INFO - Finished server process [14712]
 2024-06-15 21:15:52,248 - uvicorn.error - INFO - Stopping reloader process [15800]
+2024-06-17 22:54:23,354 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-06-17 22:54:23,355 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-06-17 22:54:23,356 - uvicorn.error - INFO - Started reloader process [3024] using WatchFiles
+2024-06-17 22:54:28,464 - uvicorn.error - INFO - Started server process [4484]
+2024-06-17 22:54:28,464 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-17 22:54:28,465 - uvicorn.error - INFO - Application startup complete.
+2024-06-17 23:57:38,510 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2024-06-17 23:58:13,426 - uvicorn.error - INFO - Shutting down
+2024-06-17 23:58:13,562 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-06-17 23:58:13,580 - uvicorn.error - INFO - Application shutdown complete.
+2024-06-17 23:58:13,585 - uvicorn.error - INFO - Finished server process [4484]
+2024-06-17 23:58:15,534 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2024-06-17 23:58:38,126 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-06-17 23:58:38,127 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-06-17 23:58:38,128 - uvicorn.error - INFO - Started reloader process [13676] using WatchFiles
+2024-06-17 23:58:41,406 - uvicorn.error - INFO - Started server process [14972]
+2024-06-17 23:58:41,407 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-17 23:58:41,408 - uvicorn.error - INFO - Application startup complete.
+2024-06-18 00:03:48,833 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2024-06-18 00:06:56,388 - uvicorn.error - INFO - Shutting down
+2024-06-18 00:06:56,544 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-06-18 00:06:56,560 - uvicorn.error - INFO - Application shutdown complete.
+2024-06-18 00:06:56,561 - uvicorn.error - INFO - Finished server process [14972]
+2024-06-18 00:07:10,916 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-06-18 00:07:10,916 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-06-18 00:07:10,916 - uvicorn.error - INFO - Started reloader process [4888] using WatchFiles
+2024-06-18 00:07:15,445 - uvicorn.error - INFO - Started server process [9304]
+2024-06-18 00:07:15,445 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-18 00:07:15,445 - uvicorn.error - INFO - Application startup complete.
+2024-06-18 00:08:54,468 - uvicorn.error - INFO - Shutting down
+2024-06-18 00:08:54,580 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-06-18 00:08:54,581 - uvicorn.error - INFO - Application shutdown complete.
+2024-06-18 00:08:54,582 - uvicorn.error - INFO - Finished server process [9304]
+2024-06-18 00:08:55,281 - uvicorn.error - INFO - Stopping reloader process [4888]
+2024-06-18 00:08:56,147 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-06-18 00:08:56,147 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-06-18 00:08:56,148 - uvicorn.error - INFO - Started reloader process [2196] using WatchFiles
+2024-06-18 00:08:59,317 - uvicorn.error - INFO - Started server process [13060]
+2024-06-18 00:08:59,317 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-18 00:08:59,319 - uvicorn.error - INFO - Application startup complete.
+2024-06-18 00:16:52,295 - uvicorn.error - INFO - Shutting down
+2024-06-18 00:16:52,427 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-06-18 00:16:52,436 - uvicorn.error - INFO - Application shutdown complete.
+2024-06-18 00:16:52,443 - uvicorn.error - INFO - Finished server process [13060]
+2024-06-18 00:16:58,439 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-06-18 00:16:58,439 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-06-18 00:16:58,440 - uvicorn.error - INFO - Started reloader process [18456] using WatchFiles
+2024-06-18 00:17:03,090 - uvicorn.error - INFO - Started server process [19252]
+2024-06-18 00:17:03,091 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-18 00:17:03,091 - uvicorn.error - INFO - Application startup complete.
+2024-06-18 00:41:41,321 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-06-18 00:41:41,322 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-06-18 00:41:41,323 - uvicorn.error - INFO - Started reloader process [18624] using WatchFiles
+2024-06-18 00:41:43,646 - uvicorn.error - INFO - Started server process [3332]
+2024-06-18 00:41:43,646 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-18 00:41:43,646 - uvicorn.error - INFO - Application startup complete.
+2024-06-18 00:48:48,950 - uvicorn.error - INFO - Shutting down
+2024-06-18 00:48:49,079 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-06-18 00:48:49,089 - uvicorn.error - INFO - Application shutdown complete.
+2024-06-18 00:48:49,092 - uvicorn.error - INFO - Finished server process [3332]
+2024-06-18 00:48:52,190 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-06-18 00:48:52,326 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-06-18 00:48:52,327 - uvicorn.error - INFO - Started reloader process [18748] using WatchFiles
+2024-06-18 00:48:56,235 - uvicorn.error - INFO - Started server process [6840]
+2024-06-18 00:48:56,235 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-18 00:48:56,236 - uvicorn.error - INFO - Application startup complete.
+2024-06-18 00:52:22,436 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-06-18 00:52:22,436 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-06-18 00:52:22,437 - uvicorn.error - INFO - Started reloader process [12824] using WatchFiles
+2024-06-18 00:52:26,448 - uvicorn.error - INFO - Started server process [17424]
+2024-06-18 00:52:26,448 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-18 00:52:26,449 - uvicorn.error - INFO - Application startup complete.
+2024-06-18 01:14:38,498 - uvicorn.error - INFO - Shutting down
+2024-06-18 01:14:38,622 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-06-18 01:14:38,629 - uvicorn.error - INFO - Application shutdown complete.
+2024-06-18 01:14:38,635 - uvicorn.error - INFO - Finished server process [17424]
+2024-06-18 01:14:39,900 - uvicorn.error - INFO - Stopping reloader process [12824]
+2024-06-18 01:14:42,776 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-06-18 01:14:42,778 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-06-18 01:14:42,779 - uvicorn.error - INFO - Started reloader process [15408] using WatchFiles
+2024-06-18 01:14:49,421 - uvicorn.error - INFO - Started server process [18368]
+2024-06-18 01:14:49,422 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-18 01:14:49,422 - uvicorn.error - INFO - Application startup complete.
+2024-06-18 01:15:48,637 - uvicorn.error - INFO - Shutting down
+2024-06-18 01:15:48,795 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-06-18 01:15:48,810 - uvicorn.error - INFO - Application shutdown complete.
+2024-06-18 01:15:48,815 - uvicorn.error - INFO - Finished server process [18368]
+2024-06-18 01:15:49,442 - uvicorn.error - INFO - Stopping reloader process [15408]
+2024-06-18 01:15:51,184 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-06-18 01:15:51,185 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-06-18 01:15:51,185 - uvicorn.error - INFO - Started reloader process [9260] using WatchFiles
+2024-06-18 01:15:55,954 - uvicorn.error - INFO - Started server process [18156]
+2024-06-18 01:15:55,954 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-18 01:15:55,955 - uvicorn.error - INFO - Application startup complete.
+2024-06-18 01:18:35,598 - uvicorn.error - WARNING - WatchFiles detected changes in 'Parsers\EmailParser.py'. Reloading...
+2024-06-18 01:18:38,304 - uvicorn.error - INFO - Shutting down
+2024-06-18 01:18:38,469 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-06-18 01:18:38,488 - uvicorn.error - INFO - Application shutdown complete.
+2024-06-18 01:18:38,495 - uvicorn.error - INFO - Finished server process [18156]
+2024-06-18 01:18:44,009 - uvicorn.error - INFO - Started server process [5244]
+2024-06-18 01:18:44,010 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-18 01:18:44,010 - uvicorn.error - INFO - Application startup complete.
+2024-06-18 01:25:02,365 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-06-18 01:25:02,366 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-06-18 01:25:02,366 - uvicorn.error - INFO - Started reloader process [11560] using WatchFiles
+2024-06-18 01:25:05,473 - uvicorn.error - INFO - Started server process [1496]
+2024-06-18 01:25:05,473 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-18 01:25:05,474 - uvicorn.error - INFO - Application startup complete.
+2024-06-18 01:31:00,303 - uvicorn.error - INFO - Shutting down
+2024-06-18 01:31:00,530 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-06-18 01:31:00,542 - uvicorn.error - INFO - Application shutdown complete.
+2024-06-18 01:31:00,546 - uvicorn.error - INFO - Finished server process [1496]
+2024-06-18 01:31:01,753 - uvicorn.error - INFO - Stopping reloader process [11560]
+2024-06-18 01:31:03,498 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-06-18 01:31:03,499 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-06-18 01:31:03,499 - uvicorn.error - INFO - Started reloader process [19284] using WatchFiles
+2024-06-18 01:31:08,090 - uvicorn.error - INFO - Started server process [7188]
+2024-06-18 01:31:08,090 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-18 01:31:08,090 - uvicorn.error - INFO - Application startup complete.
+2024-06-18 01:34:46,573 - uvicorn.error - INFO - Shutting down
+2024-06-18 01:34:46,726 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-06-18 01:34:46,752 - uvicorn.error - INFO - Application shutdown complete.
+2024-06-18 01:34:46,756 - uvicorn.error - INFO - Finished server process [7188]
+2024-06-18 01:35:29,310 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-06-18 01:35:29,311 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-06-18 01:35:29,311 - uvicorn.error - INFO - Started reloader process [12104] using WatchFiles
+2024-06-18 01:35:34,495 - uvicorn.error - INFO - Started server process [2960]
+2024-06-18 01:35:34,496 - uvicorn.error - INFO - Waiting for application startup.
+2024-06-18 01:35:34,496 - uvicorn.error - INFO - Application startup complete.
+2024-06-18 01:42:44,449 - uvicorn.error - INFO - Shutting down
+2024-06-18 01:42:44,578 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-06-18 01:42:44,587 - uvicorn.error - INFO - Application shutdown complete.
+2024-06-18 01:42:44,591 - uvicorn.error - INFO - Finished server process [2960]
+2024-06-18 01:42:45,821 - uvicorn.error - INFO - Stopping reloader process [12104]
