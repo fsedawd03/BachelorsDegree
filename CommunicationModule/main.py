@@ -8,11 +8,11 @@ import logging
 app = FastAPI()
 
 #@app.exception_handler(RequestValidationError)
-async def validation_exception_handler(request: Request, exc: RequestValidationError):
-	exc_str = f'{exc}'.replace('\n', ' ').replace('   ', ' ')
-	logging.error(f"{request}: {exc_str}")
-	content = {'status_code': 10422, 'message': exc_str, 'data': None}
-	return JSONResponse(content=content, status_code=status.HTTP_422_UNPROCESSABLE_ENTITY)
+# async def validation_exception_handler(request: Request, exc: RequestValidationError):
+# 	exc_str = f'{exc}'.replace('\n', ' ').replace('   ', ' ')
+# 	logging.error(f"{request}: {exc_str}")
+# 	content = {'status_code': 10422, 'message': exc_str, 'data': None}
+# 	return JSONResponse(content=content, status_code=status.HTTP_422_UNPROCESSABLE_ENTITY)
 
 # Include the routers from the controller module
 app.include_router(emailData_controller_router, prefix="/v1.0/phishing")

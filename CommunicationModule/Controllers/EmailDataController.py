@@ -17,4 +17,11 @@ class EmailDataController:
         try:
             return self.emailDataService.runModel(emailData)
         except Exception as e:
-            raise HTTPException(status_code=422, detail=str(e))
+            raise HTTPException(status_code=500, detail=str(e))
+
+    @emailData_controller_router.post('/testModel')
+    def testModel(self, emailData: EmailData):
+        #try:
+            return self.emailDataService.testModel(emailData)
+       #except Exception as e:
+            #raise HTTPException(status_code=500, detail=str(e))

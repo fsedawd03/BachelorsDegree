@@ -158,3 +158,110 @@
 2024-06-18 01:39:41,435 - uvicorn.access - INFO - 127.0.0.1:24116 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
 2024-06-18 01:41:25,396 - uvicorn.access - INFO - 127.0.0.1:18086 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
 2024-06-18 01:42:13,913 - uvicorn.access - INFO - 127.0.0.1:38554 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 12:49:53,866 - uvicorn.access - INFO - 127.0.0.1:20401 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 12:50:35,396 - uvicorn.access - INFO - 127.0.0.1:20426 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 12:50:47,130 - uvicorn.access - INFO - 127.0.0.1:20437 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 12:50:59,991 - uvicorn.access - INFO - 127.0.0.1:20446 - "POST /v1.0/phishing/runModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 12:51:04,416 - uvicorn.access - INFO - 127.0.0.1:20446 - "POST /v1.0/phishing/runModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 12:54:11,167 - uvicorn.access - INFO - 127.0.0.1:20499 - "POST /v1.0/phishing/runModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 12:54:13,226 - uvicorn.access - INFO - 127.0.0.1:20505 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 12:54:24,861 - uvicorn.access - INFO - 127.0.0.1:20514 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 12:58:46,479 - uvicorn.access - INFO - 127.0.0.1:20597 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 12:58:51,933 - uvicorn.access - INFO - 127.0.0.1:20602 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 12:58:53,535 - uvicorn.access - INFO - 127.0.0.1:20602 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 12:58:54,267 - uvicorn.access - INFO - 127.0.0.1:20602 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 12:59:50,588 - uvicorn.access - INFO - 127.0.0.1:20631 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 12:59:57,105 - uvicorn.access - INFO - 127.0.0.1:20636 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 13:01:39,871 - uvicorn.access - INFO - 127.0.0.1:20705 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 13:01:40,657 - uvicorn.access - INFO - 127.0.0.1:20705 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 13:01:41,360 - uvicorn.access - INFO - 127.0.0.1:20705 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 13:01:41,931 - uvicorn.access - INFO - 127.0.0.1:20705 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 13:01:42,521 - uvicorn.access - INFO - 127.0.0.1:20705 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 13:01:42,911 - uvicorn.access - INFO - 127.0.0.1:20705 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 13:01:43,396 - uvicorn.access - INFO - 127.0.0.1:20705 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 13:01:43,745 - uvicorn.access - INFO - 127.0.0.1:20705 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 13:01:44,099 - uvicorn.access - INFO - 127.0.0.1:20705 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 13:01:44,458 - uvicorn.access - INFO - 127.0.0.1:20705 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 13:01:44,723 - uvicorn.access - INFO - 127.0.0.1:20705 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 13:01:46,005 - uvicorn.access - INFO - 127.0.0.1:20705 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 13:01:53,883 - uvicorn.access - INFO - 127.0.0.1:20727 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 13:03:03,518 - uvicorn.access - INFO - 127.0.0.1:20761 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 13:03:04,401 - uvicorn.access - INFO - 127.0.0.1:20761 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 13:03:05,158 - uvicorn.access - INFO - 127.0.0.1:20761 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 13:03:05,657 - uvicorn.access - INFO - 127.0.0.1:20761 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 13:03:06,219 - uvicorn.access - INFO - 127.0.0.1:20761 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 13:03:09,287 - uvicorn.access - INFO - 127.0.0.1:20761 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 13:04:33,553 - uvicorn.access - INFO - 127.0.0.1:20802 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 13:04:34,409 - uvicorn.access - INFO - 127.0.0.1:20802 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 13:04:35,075 - uvicorn.access - INFO - 127.0.0.1:20802 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 13:04:35,744 - uvicorn.access - INFO - 127.0.0.1:20802 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 13:04:36,381 - uvicorn.access - INFO - 127.0.0.1:20802 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 13:04:37,238 - uvicorn.access - INFO - 127.0.0.1:20802 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 13:04:38,545 - uvicorn.access - INFO - 127.0.0.1:20802 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 13:05:19,667 - uvicorn.access - INFO - 127.0.0.1:20835 - "POST /v1.0/phishing/testModel HTTP/1.1" 200 OK
+2024-07-14 13:05:47,937 - uvicorn.access - INFO - 127.0.0.1:20849 - "POST /v1.0/phishing/testModel HTTP/1.1" 200 OK
+2024-07-14 13:06:10,076 - uvicorn.access - INFO - 127.0.0.1:20862 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 13:06:32,629 - uvicorn.access - INFO - 127.0.0.1:20888 - "POST /v1.0/phishing/testModel HTTP/1.1" 200 OK
+2024-07-14 13:11:30,980 - uvicorn.access - INFO - 127.0.0.1:20997 - "POST /v1.0/phishing/testModel HTTP/1.1" 200 OK
+2024-07-14 13:22:22,319 - uvicorn.access - INFO - 127.0.0.1:55695 - "OPTIONS /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 13:22:22,746 - uvicorn.access - INFO - 127.0.0.1:55695 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 13:22:35,289 - uvicorn.access - INFO - 127.0.0.1:33062 - "OPTIONS /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 13:22:35,348 - uvicorn.access - INFO - 127.0.0.1:33062 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 13:24:59,404 - uvicorn.access - INFO - 127.0.0.1:33269 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 13:28:21,472 - uvicorn.access - INFO - 127.0.0.1:57500 - "OPTIONS /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 13:28:21,650 - uvicorn.access - INFO - 127.0.0.1:57500 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 13:28:30,686 - uvicorn.access - INFO - 127.0.0.1:57517 - "OPTIONS /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 13:28:30,712 - uvicorn.access - INFO - 127.0.0.1:57517 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 13:31:45,629 - uvicorn.access - INFO - 127.0.0.1:57741 - "OPTIONS /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 13:31:45,669 - uvicorn.access - INFO - 127.0.0.1:57741 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 13:36:11,266 - uvicorn.access - INFO - 127.0.0.1:10805 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 13:36:23,876 - uvicorn.access - INFO - 127.0.0.1:10821 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 13:36:48,674 - uvicorn.access - INFO - 127.0.0.1:10848 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 13:37:08,623 - uvicorn.access - INFO - 127.0.0.1:10869 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 13:37:11,011 - uvicorn.access - INFO - 127.0.0.1:10869 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 13:38:27,865 - uvicorn.access - INFO - 127.0.0.1:10948 - "OPTIONS /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 13:38:27,891 - uvicorn.access - INFO - 127.0.0.1:10948 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 13:47:39,147 - uvicorn.access - INFO - 127.0.0.1:52955 - "OPTIONS /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 13:47:39,230 - uvicorn.access - INFO - 127.0.0.1:52955 - "POST /v1.0/phishing/runModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 13:47:42,506 - uvicorn.access - INFO - 127.0.0.1:52965 - "POST /v1.0/phishing/runModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 13:47:46,118 - uvicorn.access - INFO - 127.0.0.1:52970 - "POST /v1.0/phishing/runModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 13:47:49,655 - uvicorn.access - INFO - 127.0.0.1:52980 - "OPTIONS /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 13:47:49,675 - uvicorn.access - INFO - 127.0.0.1:52980 - "POST /v1.0/phishing/runModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 13:47:54,044 - uvicorn.access - INFO - 127.0.0.1:52992 - "OPTIONS /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 13:47:54,165 - uvicorn.access - INFO - 127.0.0.1:52992 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 13:48:03,114 - uvicorn.access - INFO - 127.0.0.1:53006 - "OPTIONS /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 13:48:03,120 - uvicorn.access - INFO - 127.0.0.1:53006 - "POST /v1.0/phishing/runModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 13:48:13,498 - uvicorn.access - INFO - 127.0.0.1:53020 - "OPTIONS /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 13:48:13,506 - uvicorn.access - INFO - 127.0.0.1:53020 - "POST /v1.0/phishing/runModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 13:48:56,925 - uvicorn.access - INFO - 127.0.0.1:53235 - "OPTIONS /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 13:48:56,961 - uvicorn.access - INFO - 127.0.0.1:53235 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 13:49:04,831 - uvicorn.access - INFO - 127.0.0.1:53251 - "POST /v1.0/phishing/runModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 13:51:49,939 - uvicorn.access - INFO - 127.0.0.1:53484 - "POST /v1.0/phishing/runModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 14:02:28,073 - uvicorn.access - INFO - 127.0.0.1:54122 - "OPTIONS /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 14:02:28,096 - uvicorn.access - INFO - 127.0.0.1:54122 - "POST /v1.0/phishing/runModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 14:11:17,942 - uvicorn.access - INFO - 127.0.0.1:54679 - "POST /v1.0/phishing/runModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 14:13:53,856 - uvicorn.access - INFO - 127.0.0.1:54843 - "OPTIONS /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 14:13:53,883 - uvicorn.access - INFO - 127.0.0.1:54843 - "POST /v1.0/phishing/runModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 14:15:39,898 - uvicorn.access - INFO - 127.0.0.1:54972 - "POST /v1.0/phishing/runModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 14:18:33,886 - uvicorn.access - INFO - 127.0.0.1:55149 - "POST /v1.0/phishing/runModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 14:18:46,917 - uvicorn.access - INFO - 127.0.0.1:55186 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 14:18:56,797 - uvicorn.access - INFO - 127.0.0.1:55215 - "POST /v1.0/phishing/runModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 14:25:16,895 - uvicorn.access - INFO - 127.0.0.1:55700 - "OPTIONS /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 14:25:16,933 - uvicorn.access - INFO - 127.0.0.1:55700 - "POST /v1.0/phishing/runModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 14:26:36,882 - uvicorn.access - INFO - 127.0.0.1:55803 - "POST /v1.0/phishing/runModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 14:27:24,950 - uvicorn.access - INFO - 127.0.0.1:55860 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 14:27:32,839 - uvicorn.access - INFO - 127.0.0.1:55901 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 14:27:42,848 - uvicorn.access - INFO - 127.0.0.1:55922 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 14:28:35,934 - uvicorn.access - INFO - 127.0.0.1:56013 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+INFO <PID 7992:SpawnProcess-1> uvicorn.access.send(): 127.0.0.1:57266 - "POST /v1.0/phishing/testModel HTTP/1.1" 200
+2024-07-14 14:46:51,804 - uvicorn.access - INFO - 127.0.0.1:58152 - "POST /v1.0/phishing/testModel HTTP/1.1" 200 OK
+2024-07-14 14:47:44,944 - uvicorn.access - INFO - 127.0.0.1:58209 - "POST /v1.0/phishing/testModel HTTP/1.1" 200 OK
+2024-07-14 14:48:14,558 - uvicorn.access - INFO - 127.0.0.1:58243 - "POST /v1.0/phishing/testModel HTTP/1.1" 200 OK
+2024-07-14 14:48:52,000 - uvicorn.access - INFO - 127.0.0.1:58289 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity
+2024-07-14 14:53:16,290 - uvicorn.access - INFO - 127.0.0.1:58804 - "POST /v1.0/phishing/runModel HTTP/1.1" 422 Unprocessable Entity - send:481 - 127.0.0.1:58804 - "POST /v1.0/phishing/runModel HTTP/1.1" 422
+2024-07-14 14:53:54,948 - uvicorn.access - INFO - 127.0.0.1:58855 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK - send:481 - 127.0.0.1:58855 - "POST /v1.0/phishing/runModel HTTP/1.1" 200
+2024-07-14 15:07:43,668 - uvicorn.access - INFO - 127.0.0.1:60349 - "POST /v1.0/phishing/testModel HTTP/1.1" 500 Internal Server Error
+2024-07-14 15:08:53,231 - uvicorn.access - INFO - 127.0.0.1:60460 - "OPTIONS /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 15:08:53,457 - uvicorn.access - INFO - 127.0.0.1:60460 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 15:09:07,335 - uvicorn.access - INFO - 127.0.0.1:60488 - "OPTIONS /v1.0/phishing/runModel HTTP/1.1" 200 OK
+2024-07-14 15:09:07,382 - uvicorn.access - INFO - 127.0.0.1:60488 - "POST /v1.0/phishing/runModel HTTP/1.1" 200 OK

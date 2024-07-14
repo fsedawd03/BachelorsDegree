@@ -2,10 +2,9 @@ from DTO.EmailData import EmailData
 from email.parser import HeaderParser
 import pandas as pd
 import re
-import joblib
 from bs4 import BeautifulSoup
 import nltk
-import os
+
 
 def containsWrapper(searchValue: str, text: str) -> int:
     return 1 if searchValue in text else 0
@@ -30,15 +29,8 @@ def emailParser(emailData: EmailData) -> pd.DataFrame:
     h = parser.parsestr(emailData.emailHeaders)
     body = emailData.emailBody
 
-    listKeys = ["From", "Subject", "To", "Return-Path", "Authentication-Results"]
-
-    for k in listKeys:
-        try:
-            h[k]
-        except KeyError:
-            h[k] = "None"
-
-    pData = pd.DataFrame(data=h.values(), index=h.keys())
+    pData = pd.DataFrame(data=h.values(), index=h.keys()).loc[
+        ["From", "Subject", "To", "Return-Path", "Authentication-Results"]]
 
     emailDic = {
         "DKIM": -1,  # Checks whether the email passed the dkim check
@@ -61,18 +53,15 @@ def emailParser(emailData: EmailData) -> pd.DataFrame:
                      "Suspended", "Urgent"]
 
     # Verify Dkim, spf, arc and dmarc passes
-    try:
-        for arcMsg in pData.loc["Authentication-Results"]:
-            if "dkim=pass" in arcMsg:
-                emailDic["DKIM"] = 1
-            if "spf=pass" in arcMsg:
-                emailDic["SPF"] = 1
-            if "dmarc=pass" in arcMsg:
-                emailDic["DMARC"] = 1
-            if "arc=pass" in arcMsg:
-                emailDic["ARC"] = 1
-    except KeyError:
-        pass
+    for arcMsg in pData.loc["Authentication-Results"]:
+        if "dkim=pass" in arcMsg:
+            emailDic["DKIM"] = 1
+        if "spf=pass" in arcMsg:
+            emailDic["SPF"] = 1
+        if "dmarc=pass" in arcMsg:
+            emailDic["DMARC"] = 1
+        if "arc=pass" in arcMsg:
+            emailDic["ARC"] = 1
 
     # Verify body html,form button and verifyAcc
     html, dear, form, button, verifyAcc = containsWrapper("<style", body), containsWrapper("dear", body.lower()), containsWrapper("<form", body), containsWrapper("<button", body), containsWrapper("Verify your account", body.lower())
@@ -90,37 +79,25 @@ def emailParser(emailData: EmailData) -> pd.DataFrame:
     else:
         fromAddress = "None"
 
-    try:
-        if fromAddress == pData.loc["Return-Path"][0]:
-            emailDic["From eq Return"] = 1
-    except KeyError:
-        pass
+    if fromAddress == pData.loc["Return-Path"][0]:
+        emailDic["From eq Return"] = 1
 
     # Count the number of links by counting the number of href tags in html code
-    links = re.findall(r'<a\s+[^>]*href=["\']?(http[^\'" >]+)', body.lower(), re.M)
-    emailDic["Number of Links"] = len(links)
+    emailDic["Number of Links"] += body.lower().count("http")
 
     # Count the number of function words inside the email
     for word in functionWords:
         if body.lower().find(word.lower()) != -1:
             emailDic["Body no of function words"] += 1
 
-    # Remove tags, punctuation and stemm the body message
+    # Remove tags, punctuation and stem the body message
     body = stemming(remove_punct(strip_tags(body)))
 
     #Load the data into a pd DataFrame
     modelData = pd.DataFrame([emailDic])
     modelData.set_index('Message-Id', inplace=True)
-
-    #Load the TfidfVectorizer
-    dirname = os.path.dirname(__file__)
-    filename = os.path.join(dirname, '../ML_Model/Tfidf_Vectorizer2.pkl')
-    loadedTfidf = joblib.load(filename)
-    textData = loadedTfidf.transform([body]).toarray()
-    textData = pd.DataFrame(textData, columns=loadedTfidf.get_feature_names_out(), index=modelData.index)
-    allData = pd.concat([modelData, textData], axis=1)
-
-    return allData
+    modelData["Text"] = body
+    return modelData
 
 
 

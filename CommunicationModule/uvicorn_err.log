@@ -1346,3 +1346,516 @@ asyncio.exceptions.CancelledError
 2024-06-18 01:42:44,587 - uvicorn.error - INFO - Application shutdown complete.
 2024-06-18 01:42:44,591 - uvicorn.error - INFO - Finished server process [2960]
 2024-06-18 01:42:45,821 - uvicorn.error - INFO - Stopping reloader process [12104]
+2024-07-14 12:49:07,502 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-07-14 12:49:07,503 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-07-14 12:49:07,504 - uvicorn.error - INFO - Started reloader process [9924] using WatchFiles
+2024-07-14 12:49:10,824 - uvicorn.error - INFO - Started server process [15044]
+2024-07-14 12:49:10,824 - uvicorn.error - INFO - Waiting for application startup.
+2024-07-14 12:49:10,824 - uvicorn.error - INFO - Application startup complete.
+2024-07-14 12:50:25,854 - uvicorn.error - INFO - Shutting down
+2024-07-14 12:50:25,964 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-07-14 12:50:25,965 - uvicorn.error - INFO - Application shutdown complete.
+2024-07-14 12:50:25,966 - uvicorn.error - INFO - Finished server process [15044]
+2024-07-14 12:50:27,846 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-07-14 12:50:27,846 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-07-14 12:50:27,846 - uvicorn.error - INFO - Started reloader process [6964] using WatchFiles
+2024-07-14 12:50:30,064 - uvicorn.error - INFO - Started server process [8208]
+2024-07-14 12:50:30,064 - uvicorn.error - INFO - Waiting for application startup.
+2024-07-14 12:50:30,065 - uvicorn.error - INFO - Application startup complete.
+2024-07-14 12:53:35,274 - uvicorn.error - WARNING - WatchFiles detected changes in 'Controllers\EmailDataController.py', 'Services\EmailDataService.py'. Reloading...
+2024-07-14 12:54:01,308 - uvicorn.error - INFO - Shutting down
+2024-07-14 12:54:01,417 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-07-14 12:54:01,417 - uvicorn.error - INFO - Application shutdown complete.
+2024-07-14 12:54:01,418 - uvicorn.error - INFO - Finished server process [8208]
+2024-07-14 12:54:03,260 - uvicorn.error - INFO - Started server process [13476]
+2024-07-14 12:54:03,261 - uvicorn.error - INFO - Waiting for application startup.
+2024-07-14 12:54:03,261 - uvicorn.error - INFO - Application startup complete.
+2024-07-14 12:54:09,037 - uvicorn.error - WARNING - WatchFiles detected changes in 'ML_Model\createModel.py'. Reloading...
+2024-07-14 12:54:11,222 - uvicorn.error - INFO - Shutting down
+2024-07-14 12:54:11,329 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-07-14 12:54:11,329 - uvicorn.error - INFO - Application shutdown complete.
+2024-07-14 12:54:11,329 - uvicorn.error - INFO - Finished server process [13476]
+2024-07-14 12:54:13,147 - uvicorn.error - INFO - Started server process [12496]
+2024-07-14 12:54:13,148 - uvicorn.error - INFO - Waiting for application startup.
+2024-07-14 12:54:13,148 - uvicorn.error - INFO - Application startup complete.
+2024-07-14 12:55:29,768 - uvicorn.error - WARNING - WatchFiles detected changes in 'Parsers\EmailParserRand.py'. Reloading...
+2024-07-14 12:58:32,390 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-07-14 12:58:32,391 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-07-14 12:58:32,391 - uvicorn.error - INFO - Started reloader process [14584] using WatchFiles
+2024-07-14 12:58:34,166 - uvicorn.error - INFO - Started server process [13580]
+2024-07-14 12:58:34,166 - uvicorn.error - INFO - Waiting for application startup.
+2024-07-14 12:58:34,167 - uvicorn.error - INFO - Application startup complete.
+2024-07-14 12:59:41,627 - uvicorn.error - INFO - Shutting down
+2024-07-14 12:59:41,737 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-07-14 12:59:41,737 - uvicorn.error - INFO - Application shutdown complete.
+2024-07-14 12:59:41,737 - uvicorn.error - INFO - Finished server process [13580]
+2024-07-14 12:59:42,058 - uvicorn.error - INFO - Stopping reloader process [14584]
+2024-07-14 12:59:42,744 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-07-14 12:59:42,744 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-07-14 12:59:42,745 - uvicorn.error - INFO - Started reloader process [1540] using WatchFiles
+2024-07-14 12:59:44,986 - uvicorn.error - INFO - Started server process [2304]
+2024-07-14 12:59:44,986 - uvicorn.error - INFO - Waiting for application startup.
+2024-07-14 12:59:44,987 - uvicorn.error - INFO - Application startup complete.
+2024-07-14 13:01:32,308 - uvicorn.error - INFO - Shutting down
+2024-07-14 13:01:32,415 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-07-14 13:01:32,416 - uvicorn.error - INFO - Application shutdown complete.
+2024-07-14 13:01:32,416 - uvicorn.error - INFO - Finished server process [2304]
+2024-07-14 13:01:32,732 - uvicorn.error - INFO - Stopping reloader process [1540]
+2024-07-14 13:01:33,435 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-07-14 13:01:33,436 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-07-14 13:01:33,436 - uvicorn.error - INFO - Started reloader process [14536] using WatchFiles
+2024-07-14 13:01:35,699 - uvicorn.error - INFO - Started server process [13184]
+2024-07-14 13:01:35,699 - uvicorn.error - INFO - Waiting for application startup.
+2024-07-14 13:01:35,700 - uvicorn.error - INFO - Application startup complete.
+2024-07-14 13:02:54,440 - uvicorn.error - INFO - Shutting down
+2024-07-14 13:02:54,547 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-07-14 13:02:54,547 - uvicorn.error - INFO - Application shutdown complete.
+2024-07-14 13:02:54,548 - uvicorn.error - INFO - Finished server process [13184]
+2024-07-14 13:02:54,813 - uvicorn.error - INFO - Stopping reloader process [14536]
+2024-07-14 13:02:55,425 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-07-14 13:02:55,425 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-07-14 13:02:55,425 - uvicorn.error - INFO - Started reloader process [13364] using WatchFiles
+2024-07-14 13:02:57,198 - uvicorn.error - INFO - Started server process [2824]
+2024-07-14 13:02:57,199 - uvicorn.error - INFO - Waiting for application startup.
+2024-07-14 13:02:57,199 - uvicorn.error - INFO - Application startup complete.
+2024-07-14 13:04:25,932 - uvicorn.error - INFO - Shutting down
+2024-07-14 13:04:26,041 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-07-14 13:04:26,041 - uvicorn.error - INFO - Application shutdown complete.
+2024-07-14 13:04:26,041 - uvicorn.error - INFO - Finished server process [2824]
+2024-07-14 13:04:26,291 - uvicorn.error - INFO - Stopping reloader process [13364]
+2024-07-14 13:04:26,887 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-07-14 13:04:26,888 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-07-14 13:04:26,888 - uvicorn.error - INFO - Started reloader process [11688] using WatchFiles
+2024-07-14 13:04:28,700 - uvicorn.error - INFO - Started server process [6556]
+2024-07-14 13:04:28,700 - uvicorn.error - INFO - Waiting for application startup.
+2024-07-14 13:04:28,701 - uvicorn.error - INFO - Application startup complete.
+2024-07-14 13:05:08,692 - uvicorn.error - INFO - Shutting down
+2024-07-14 13:05:08,800 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-07-14 13:05:08,801 - uvicorn.error - INFO - Application shutdown complete.
+2024-07-14 13:05:08,801 - uvicorn.error - INFO - Finished server process [6556]
+2024-07-14 13:05:09,064 - uvicorn.error - INFO - Stopping reloader process [11688]
+2024-07-14 13:05:09,618 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-07-14 13:05:09,619 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-07-14 13:05:09,619 - uvicorn.error - INFO - Started reloader process [2332] using WatchFiles
+2024-07-14 13:05:11,252 - uvicorn.error - INFO - Started server process [8924]
+2024-07-14 13:05:11,253 - uvicorn.error - INFO - Waiting for application startup.
+2024-07-14 13:05:11,253 - uvicorn.error - INFO - Application startup complete.
+2024-07-14 13:06:03,846 - uvicorn.error - INFO - Shutting down
+2024-07-14 13:06:03,954 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-07-14 13:06:03,954 - uvicorn.error - INFO - Application shutdown complete.
+2024-07-14 13:06:03,954 - uvicorn.error - INFO - Finished server process [8924]
+2024-07-14 13:06:04,246 - uvicorn.error - INFO - Stopping reloader process [2332]
+2024-07-14 13:06:04,897 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-07-14 13:06:04,897 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-07-14 13:06:04,898 - uvicorn.error - INFO - Started reloader process [13712] using WatchFiles
+2024-07-14 13:06:06,590 - uvicorn.error - INFO - Started server process [8552]
+2024-07-14 13:06:06,591 - uvicorn.error - INFO - Waiting for application startup.
+2024-07-14 13:06:06,591 - uvicorn.error - INFO - Application startup complete.
+2024-07-14 13:06:18,242 - uvicorn.error - INFO - Shutting down
+2024-07-14 13:06:18,351 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-07-14 13:06:18,351 - uvicorn.error - INFO - Application shutdown complete.
+2024-07-14 13:06:18,351 - uvicorn.error - INFO - Finished server process [8552]
+2024-07-14 13:06:18,599 - uvicorn.error - INFO - Stopping reloader process [13712]
+2024-07-14 13:06:19,107 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-07-14 13:06:19,108 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-07-14 13:06:19,108 - uvicorn.error - INFO - Started reloader process [11940] using WatchFiles
+2024-07-14 13:06:20,683 - uvicorn.error - INFO - Started server process [14528]
+2024-07-14 13:06:20,683 - uvicorn.error - INFO - Waiting for application startup.
+2024-07-14 13:06:20,684 - uvicorn.error - INFO - Application startup complete.
+2024-07-14 13:09:15,066 - uvicorn.error - WARNING - WatchFiles detected changes in 'Parsers\EmailParserRand.py'. Reloading...
+2024-07-14 13:11:18,826 - uvicorn.error - INFO - Shutting down
+2024-07-14 13:11:18,933 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-07-14 13:11:18,934 - uvicorn.error - INFO - Application shutdown complete.
+2024-07-14 13:11:18,934 - uvicorn.error - INFO - Finished server process [14528]
+2024-07-14 13:11:21,673 - uvicorn.error - INFO - Started server process [8384]
+2024-07-14 13:11:21,674 - uvicorn.error - INFO - Waiting for application startup.
+2024-07-14 13:11:21,674 - uvicorn.error - INFO - Application startup complete.
+2024-07-14 13:57:28,829 - uvicorn.error - WARNING - WatchFiles detected changes in 'Parsers\EmailParser.py'. Reloading...
+2024-07-14 14:02:00,045 - uvicorn.error - INFO - Shutting down
+2024-07-14 14:02:00,185 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-07-14 14:02:00,205 - uvicorn.error - INFO - Application shutdown complete.
+2024-07-14 14:02:00,209 - uvicorn.error - INFO - Finished server process [8384]
+2024-07-14 14:02:05,354 - uvicorn.error - INFO - Started server process [10528]
+2024-07-14 14:02:05,355 - uvicorn.error - INFO - Waiting for application startup.
+2024-07-14 14:02:05,355 - uvicorn.error - INFO - Application startup complete.
+2024-07-14 14:02:10,828 - uvicorn.error - WARNING - WatchFiles detected changes in 'Parsers\EmailParser.py'. Reloading...
+2024-07-14 14:02:28,147 - uvicorn.error - INFO - Shutting down
+2024-07-14 14:02:28,255 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-07-14 14:02:28,255 - uvicorn.error - INFO - Application shutdown complete.
+2024-07-14 14:02:28,256 - uvicorn.error - INFO - Finished server process [10528]
+2024-07-14 14:02:31,398 - uvicorn.error - INFO - Started server process [1272]
+2024-07-14 14:02:31,398 - uvicorn.error - INFO - Waiting for application startup.
+2024-07-14 14:02:31,399 - uvicorn.error - INFO - Application startup complete.
+2024-07-14 14:05:40,576 - uvicorn.error - WARNING - WatchFiles detected changes in 'Parsers\EmailParser.py'. Reloading...
+2024-07-14 14:07:28,843 - uvicorn.error - INFO - Shutting down
+2024-07-14 14:07:29,010 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-07-14 14:07:29,032 - uvicorn.error - INFO - Application shutdown complete.
+2024-07-14 14:07:29,035 - uvicorn.error - INFO - Finished server process [1272]
+2024-07-14 14:07:33,462 - uvicorn.error - INFO - Started server process [10276]
+2024-07-14 14:07:33,462 - uvicorn.error - INFO - Waiting for application startup.
+2024-07-14 14:07:33,462 - uvicorn.error - INFO - Application startup complete.
+2024-07-14 14:11:02,041 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-07-14 14:11:02,042 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-07-14 14:11:02,043 - uvicorn.error - INFO - Started reloader process [13648] using WatchFiles
+2024-07-14 14:11:04,483 - uvicorn.error - INFO - Started server process [15756]
+2024-07-14 14:11:04,483 - uvicorn.error - INFO - Waiting for application startup.
+2024-07-14 14:11:04,484 - uvicorn.error - INFO - Application startup complete.
+2024-07-14 14:13:22,168 - uvicorn.error - INFO - Shutting down
+2024-07-14 14:13:22,275 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-07-14 14:13:22,276 - uvicorn.error - INFO - Application shutdown complete.
+2024-07-14 14:13:22,276 - uvicorn.error - INFO - Finished server process [15756]
+2024-07-14 14:13:22,756 - uvicorn.error - INFO - Stopping reloader process [13648]
+2024-07-14 14:13:23,620 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-07-14 14:13:23,621 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-07-14 14:13:23,621 - uvicorn.error - INFO - Started reloader process [12736] using WatchFiles
+2024-07-14 14:13:26,698 - uvicorn.error - INFO - Started server process [12376]
+2024-07-14 14:13:26,698 - uvicorn.error - INFO - Waiting for application startup.
+2024-07-14 14:13:26,698 - uvicorn.error - INFO - Application startup complete.
+2024-07-14 14:15:21,625 - uvicorn.error - INFO - Shutting down
+2024-07-14 14:15:21,737 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-07-14 14:15:21,738 - uvicorn.error - INFO - Application shutdown complete.
+2024-07-14 14:15:21,739 - uvicorn.error - INFO - Finished server process [12376]
+2024-07-14 14:15:22,279 - uvicorn.error - INFO - Stopping reloader process [12736]
+2024-07-14 14:15:23,056 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-07-14 14:15:23,056 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-07-14 14:15:23,058 - uvicorn.error - INFO - Started reloader process [6600] using WatchFiles
+2024-07-14 14:15:25,524 - uvicorn.error - INFO - Started server process [8384]
+2024-07-14 14:15:25,524 - uvicorn.error - INFO - Waiting for application startup.
+2024-07-14 14:15:25,524 - uvicorn.error - INFO - Application startup complete.
+2024-07-14 14:18:07,976 - uvicorn.error - INFO - Shutting down
+2024-07-14 14:18:08,084 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-07-14 14:18:08,085 - uvicorn.error - INFO - Application shutdown complete.
+2024-07-14 14:18:08,085 - uvicorn.error - INFO - Finished server process [8384]
+2024-07-14 14:18:08,447 - uvicorn.error - INFO - Stopping reloader process [6600]
+2024-07-14 14:18:09,199 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-07-14 14:18:09,199 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-07-14 14:18:09,200 - uvicorn.error - INFO - Started reloader process [6620] using WatchFiles
+2024-07-14 14:18:11,750 - uvicorn.error - INFO - Started server process [15720]
+2024-07-14 14:18:11,751 - uvicorn.error - INFO - Waiting for application startup.
+2024-07-14 14:18:11,751 - uvicorn.error - INFO - Application startup complete.
+2024-07-14 14:24:50,005 - uvicorn.error - INFO - Shutting down
+2024-07-14 14:24:50,145 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-07-14 14:24:50,165 - uvicorn.error - INFO - Application shutdown complete.
+2024-07-14 14:24:50,168 - uvicorn.error - INFO - Finished server process [15720]
+2024-07-14 14:24:51,359 - uvicorn.error - INFO - Stopping reloader process [6620]
+2024-07-14 14:24:52,456 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-07-14 14:24:52,456 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-07-14 14:24:52,458 - uvicorn.error - INFO - Started reloader process [2896] using WatchFiles
+2024-07-14 14:24:55,437 - uvicorn.error - INFO - Started server process [10980]
+2024-07-14 14:24:55,438 - uvicorn.error - INFO - Waiting for application startup.
+2024-07-14 14:24:55,438 - uvicorn.error - INFO - Application startup complete.
+2024-07-14 14:26:21,497 - uvicorn.error - INFO - Shutting down
+2024-07-14 14:26:21,607 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-07-14 14:26:21,611 - uvicorn.error - INFO - Application shutdown complete.
+2024-07-14 14:26:21,612 - uvicorn.error - INFO - Finished server process [10980]
+2024-07-14 14:26:22,311 - uvicorn.error - INFO - Stopping reloader process [2896]
+2024-07-14 14:26:23,149 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-07-14 14:26:23,150 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-07-14 14:26:23,150 - uvicorn.error - INFO - Started reloader process [15748] using WatchFiles
+2024-07-14 14:26:26,144 - uvicorn.error - INFO - Started server process [3736]
+2024-07-14 14:26:26,144 - uvicorn.error - INFO - Waiting for application startup.
+2024-07-14 14:26:26,145 - uvicorn.error - INFO - Application startup complete.
+2024-07-14 14:27:09,664 - uvicorn.error - INFO - Shutting down
+2024-07-14 14:27:09,774 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-07-14 14:27:09,774 - uvicorn.error - INFO - Application shutdown complete.
+2024-07-14 14:27:09,775 - uvicorn.error - INFO - Finished server process [3736]
+2024-07-14 14:27:10,105 - uvicorn.error - INFO - Stopping reloader process [15748]
+2024-07-14 14:27:10,814 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-07-14 14:27:10,815 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-07-14 14:27:10,815 - uvicorn.error - INFO - Started reloader process [15936] using WatchFiles
+2024-07-14 14:27:13,353 - uvicorn.error - INFO - Started server process [3204]
+2024-07-14 14:27:13,353 - uvicorn.error - INFO - Waiting for application startup.
+2024-07-14 14:27:13,354 - uvicorn.error - INFO - Application startup complete.
+2024-07-14 14:38:26,483 - uvicorn.error - INFO - Shutting down
+2024-07-14 14:38:26,630 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-07-14 14:38:26,644 - uvicorn.error - INFO - Application shutdown complete.
+2024-07-14 14:38:26,646 - uvicorn.error - INFO - Finished server process [3204]
+2024-07-14 14:38:28,035 - uvicorn.error - INFO - Stopping reloader process [15936]
+2024-07-14 14:38:29,217 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-07-14 14:38:29,217 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-07-14 14:38:29,218 - uvicorn.error - INFO - Started reloader process [11380] using WatchFiles
+2024-07-14 14:38:32,700 - uvicorn.error - INFO - Started server process [7992]
+2024-07-14 14:38:32,700 - uvicorn.error - INFO - Waiting for application startup.
+2024-07-14 14:38:32,701 - uvicorn.error - INFO - Application startup complete.
+2024-07-14 14:44:02,564 - uvicorn.error - INFO - Shutting down
+2024-07-14 14:44:02,710 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-07-14 14:44:02,725 - uvicorn.error - INFO - Application shutdown complete.
+2024-07-14 14:44:02,729 - uvicorn.error - INFO - Finished server process [7992]
+2024-07-14 14:44:03,831 - uvicorn.error - INFO - Stopping reloader process [11380]
+2024-07-14 14:44:04,872 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-07-14 14:44:04,872 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-07-14 14:44:04,874 - uvicorn.error - INFO - Started reloader process [14136] using WatchFiles
+2024-07-14 14:44:07,814 - uvicorn.error - INFO - Started server process [7164]
+2024-07-14 14:44:07,815 - uvicorn.error - INFO - Waiting for application startup.
+2024-07-14 14:44:07,816 - uvicorn.error - INFO - Application startup complete.
+2024-07-14 14:46:03,418 - uvicorn.error - INFO - Shutting down
+2024-07-14 14:46:03,540 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-07-14 14:46:03,544 - uvicorn.error - INFO - Application shutdown complete.
+2024-07-14 14:46:03,545 - uvicorn.error - INFO - Finished server process [7164]
+2024-07-14 14:46:03,979 - uvicorn.error - INFO - Stopping reloader process [14136]
+2024-07-14 14:46:04,836 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-07-14 14:46:04,836 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-07-14 14:46:04,837 - uvicorn.error - INFO - Started reloader process [15488] using WatchFiles
+2024-07-14 14:46:07,406 - uvicorn.error - INFO - Started server process [10792]
+2024-07-14 14:46:07,407 - uvicorn.error - INFO - Waiting for application startup.
+2024-07-14 14:46:07,407 - uvicorn.error - INFO - Application startup complete.
+2024-07-14 14:46:40,566 - uvicorn.error - INFO - Shutting down
+2024-07-14 14:46:40,673 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-07-14 14:46:40,673 - uvicorn.error - INFO - Application shutdown complete.
+2024-07-14 14:46:40,673 - uvicorn.error - INFO - Finished server process [10792]
+2024-07-14 14:46:41,011 - uvicorn.error - INFO - Stopping reloader process [15488]
+2024-07-14 14:46:41,791 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-07-14 14:46:41,791 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-07-14 14:46:41,792 - uvicorn.error - INFO - Started reloader process [7792] using WatchFiles
+2024-07-14 14:46:44,335 - uvicorn.error - INFO - Started server process [11760]
+2024-07-14 14:46:44,335 - uvicorn.error - INFO - Waiting for application startup.
+2024-07-14 14:46:44,336 - uvicorn.error - INFO - Application startup complete.
+2024-07-14 14:47:38,633 - uvicorn.error - INFO - Shutting down
+2024-07-14 14:47:38,739 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-07-14 14:47:38,741 - uvicorn.error - INFO - Application shutdown complete.
+2024-07-14 14:47:38,741 - uvicorn.error - INFO - Finished server process [11760]
+2024-07-14 14:47:39,141 - uvicorn.error - INFO - Stopping reloader process [7792]
+2024-07-14 14:47:40,021 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-07-14 14:47:40,022 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-07-14 14:47:40,022 - uvicorn.error - INFO - Started reloader process [4328] using WatchFiles
+2024-07-14 14:47:42,553 - uvicorn.error - INFO - Started server process [6648]
+2024-07-14 14:47:42,554 - uvicorn.error - INFO - Waiting for application startup.
+2024-07-14 14:47:42,554 - uvicorn.error - INFO - Application startup complete.
+2024-07-14 14:47:58,640 - uvicorn.error - INFO - Shutting down
+2024-07-14 14:47:58,747 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-07-14 14:47:58,747 - uvicorn.error - INFO - Application shutdown complete.
+2024-07-14 14:47:58,748 - uvicorn.error - INFO - Finished server process [6648]
+2024-07-14 14:47:59,160 - uvicorn.error - INFO - Stopping reloader process [4328]
+2024-07-14 14:47:59,977 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-07-14 14:47:59,977 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-07-14 14:47:59,978 - uvicorn.error - INFO - Started reloader process [2240] using WatchFiles
+2024-07-14 14:48:02,623 - uvicorn.error - INFO - Started server process [5008]
+2024-07-14 14:48:02,624 - uvicorn.error - INFO - Waiting for application startup.
+2024-07-14 14:48:02,624 - uvicorn.error - INFO - Application startup complete.
+2024-07-14 14:48:06,640 - uvicorn.error - INFO - Shutting down
+2024-07-14 14:48:06,750 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-07-14 14:48:06,750 - uvicorn.error - INFO - Application shutdown complete.
+2024-07-14 14:48:06,751 - uvicorn.error - INFO - Finished server process [5008]
+2024-07-14 14:48:07,041 - uvicorn.error - INFO - Stopping reloader process [2240]
+2024-07-14 14:48:07,604 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-07-14 14:48:07,605 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-07-14 14:48:07,605 - uvicorn.error - INFO - Started reloader process [15280] using WatchFiles
+2024-07-14 14:48:09,581 - uvicorn.error - INFO - Started server process [10524]
+2024-07-14 14:48:09,582 - uvicorn.error - INFO - Waiting for application startup.
+2024-07-14 14:48:09,582 - uvicorn.error - INFO - Application startup complete.
+2024-07-14 14:53:09,772 - uvicorn.error - INFO - Shutting down
+2024-07-14 14:53:09,918 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-07-14 14:53:09,931 - uvicorn.error - INFO - Application shutdown complete.
+2024-07-14 14:53:09,934 - uvicorn.error - INFO - Finished server process [10524]
+2024-07-14 14:53:10,837 - uvicorn.error - INFO - Stopping reloader process [15280]
+2024-07-14 14:53:11,767 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-07-14 14:53:11,768 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-07-14 14:53:11,768 - uvicorn.error - INFO - Started reloader process [6588] using WatchFiles
+2024-07-14 14:53:16,192 - uvicorn.error - INFO - Started server process [9048]
+2024-07-14 14:53:16,193 - uvicorn.error - INFO - Waiting for application startup.
+2024-07-14 14:53:16,194 - uvicorn.error - INFO - Application startup complete.
+2024-07-14 14:59:20,039 - uvicorn.error - INFO - Shutting down
+2024-07-14 14:59:20,210 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-07-14 14:59:20,235 - uvicorn.error - INFO - Application shutdown complete.
+2024-07-14 14:59:20,238 - uvicorn.error - INFO - Finished server process [9048]
+2024-07-14 14:59:21,483 - uvicorn.error - INFO - Stopping reloader process [6588]
+2024-07-14 15:07:00,513 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-07-14 15:07:00,513 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-07-14 15:07:00,514 - uvicorn.error - INFO - Started reloader process [3908] using WatchFiles
+2024-07-14 15:07:03,209 - uvicorn.error - INFO - Started server process [5936]
+2024-07-14 15:07:03,209 - uvicorn.error - INFO - Waiting for application startup.
+2024-07-14 15:07:03,210 - uvicorn.error - INFO - Application startup complete.
+2024-07-14 15:07:09,026 - uvicorn.error - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\uvicorn\protocols\http\httptools_impl.py", line 411, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 69, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\fastapi\applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\starlette\applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\errors.py", line 186, in __call__
+    raise exc
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\exceptions.py", line 65, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 756, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 776, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\fastapi\routing.py", line 278, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\fastapi\routing.py", line 193, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\starlette\concurrency.py", line 42, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\anyio\to_thread.py", line 56, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 2144, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 851, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\Controllers\EmailDataController.py", line 25, in testModel
+    return self.emailDataService.testModel(emailData)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\Services\EmailDataService.py", line 12, in testModel
+    return self.models.RandForest(inputData)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\ML_Model\createModel.py", line 18, in RandForest
+    emailData = RForestParser(inputData)
+                ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\Parsers\EmailParserRand.py", line 32, in emailParser
+    pData = pd.DataFrame(data=h.values(), index=h.keys()).loc[
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\pandas\core\indexing.py", line 1191, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\pandas\core\indexing.py", line 1420, in _getitem_axis
+    return self._getitem_iterable(key, axis=axis)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\pandas\core\indexing.py", line 1360, in _getitem_iterable
+    keyarr, indexer = self._get_listlike_indexer(key, axis)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\pandas\core\indexing.py", line 1558, in _get_listlike_indexer
+    keyarr, indexer = ax._get_indexer_strict(key, axis_name)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\pandas\core\indexes\base.py", line 6200, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\pandas\core\indexes\base.py", line 6249, in _raise_if_missing
+    raise KeyError(f"None of [{key}] are in the [{axis_name}]")
+KeyError: "None of [Index(['From', 'Subject', 'To', 'Return-Path', 'Authentication-Results'], dtype='object')] are in the [index]"
+2024-07-14 15:07:39,282 - uvicorn.error - INFO - Shutting down
+2024-07-14 15:07:39,390 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-07-14 15:07:39,390 - uvicorn.error - INFO - Application shutdown complete.
+2024-07-14 15:07:39,391 - uvicorn.error - INFO - Finished server process [5936]
+2024-07-14 15:07:39,634 - uvicorn.error - INFO - Stopping reloader process [3908]
+2024-07-14 15:07:40,286 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-07-14 15:07:40,287 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-07-14 15:07:40,287 - uvicorn.error - INFO - Started reloader process [13396] using WatchFiles
+2024-07-14 15:07:42,374 - uvicorn.error - INFO - Started server process [6508]
+2024-07-14 15:07:42,374 - uvicorn.error - INFO - Waiting for application startup.
+2024-07-14 15:07:42,375 - uvicorn.error - INFO - Application startup complete.
+2024-07-14 15:07:43,669 - uvicorn.error - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\uvicorn\protocols\http\httptools_impl.py", line 411, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 69, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\fastapi\applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\starlette\applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\errors.py", line 186, in __call__
+    raise exc
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\starlette\middleware\exceptions.py", line 65, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 756, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 776, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\starlette\routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\fastapi\routing.py", line 278, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\fastapi\routing.py", line 193, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\starlette\concurrency.py", line 42, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\anyio\to_thread.py", line 56, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 2144, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 851, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\Controllers\EmailDataController.py", line 25, in testModel
+    return self.emailDataService.testModel(emailData)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\Services\EmailDataService.py", line 12, in testModel
+    return self.models.RandForest(inputData)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\ML_Model\createModel.py", line 18, in RandForest
+    emailData = RForestParser(inputData)
+                ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\Parsers\EmailParserRand.py", line 32, in emailParser
+    pData = pd.DataFrame(data=h.values(), index=h.keys()).loc[
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\pandas\core\indexing.py", line 1191, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\pandas\core\indexing.py", line 1420, in _getitem_axis
+    return self._getitem_iterable(key, axis=axis)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\pandas\core\indexing.py", line 1360, in _getitem_iterable
+    keyarr, indexer = self._get_listlike_indexer(key, axis)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\pandas\core\indexing.py", line 1558, in _get_listlike_indexer
+    keyarr, indexer = ax._get_indexer_strict(key, axis_name)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\pandas\core\indexes\base.py", line 6200, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\Dan\Personal\Bachelor's Degree\TestTS\BachelorsDegree\CommunicationModule\.venv\Lib\site-packages\pandas\core\indexes\base.py", line 6249, in _raise_if_missing
+    raise KeyError(f"None of [{key}] are in the [{axis_name}]")
+KeyError: "None of [Index(['From', 'Subject', 'To', 'Return-Path', 'Authentication-Results'], dtype='object')] are in the [index]"
+2024-07-14 15:08:18,722 - uvicorn.error - INFO - Shutting down
+2024-07-14 15:08:18,830 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-07-14 15:08:18,830 - uvicorn.error - INFO - Application shutdown complete.
+2024-07-14 15:08:18,831 - uvicorn.error - INFO - Finished server process [6508]
+2024-07-14 15:08:19,139 - uvicorn.error - INFO - Stopping reloader process [13396]
+2024-07-14 15:08:27,857 - uvicorn.error - INFO - Will watch for changes in these directories: ["C:\\Users\\Dan\\Personal\\Bachelor's Degree\\TestTS\\BachelorsDegree\\CommunicationModule"]
+2024-07-14 15:08:27,857 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:6500 (Press CTRL+C to quit)
+2024-07-14 15:08:27,858 - uvicorn.error - INFO - Started reloader process [7352] using WatchFiles
+2024-07-14 15:08:30,145 - uvicorn.error - INFO - Started server process [15956]
+2024-07-14 15:08:30,146 - uvicorn.error - INFO - Waiting for application startup.
+2024-07-14 15:08:30,146 - uvicorn.error - INFO - Application startup complete.
