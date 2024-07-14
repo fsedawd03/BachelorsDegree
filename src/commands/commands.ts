@@ -19,19 +19,19 @@ async function action(event: Office.AddinCommands.Event) {
   const messageGood: Office.NotificationMessageDetails = {
     type: Office.MailboxEnums.ItemNotificationMessageType.InformationalMessage,
     message: "The email is safe",
-    icon: "Icon.80x80",
+    icon: "YesIcon.80x80",
     persistent: true,
   };
 
   const messageBad: Office.NotificationMessageDetails = {
     type: Office.MailboxEnums.ItemNotificationMessageType.InformationalMessage,
     message: "The email might be an attempt at phishing",
-    icon: "Icon.80x80",
+    icon: "NoIcon.80x80",
     persistent: true,
   };
 
   // Show a notification message.
-  Office.context.mailbox.item.notificationMessages.replaceAsync("ActionPerformanceNotification", messageGood);
+  //Office.context.mailbox.item.notificationMessages.replaceAsync("ActionPerformanceNotification", messageGood);
 
   // Be sure to indicate when the add-in command function is complete.
   // Get the headers of the message
