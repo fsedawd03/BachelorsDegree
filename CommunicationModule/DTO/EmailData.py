@@ -1,4 +1,4 @@
-from pydantic import BaseModel, StrictStr, EmailStr, Extra
+from pydantic import BaseModel, EmailStr, Extra, StrictStr
 
 
 class EmailData(BaseModel):

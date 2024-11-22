@@ -2,3 +2,4 @@
 bodyData.csv
 HamData2.csv
 node_modules
+.venv/

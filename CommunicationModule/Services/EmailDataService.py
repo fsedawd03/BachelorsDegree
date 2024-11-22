@@ -1,5 +1,5 @@
-from ML_Model.createModel import MlModels
 from DTO.EmailData import EmailData
+from ML_Model.createModel import MlModels
 
 
 class EmailDataService:

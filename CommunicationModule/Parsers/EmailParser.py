@@ -1,28 +1,31 @@
-from DTO.EmailData import EmailData
-from email.parser import HeaderParser
-import pandas as pd
-import re
-import joblib
-from bs4 import BeautifulSoup
-import nltk
 import os
+import re
+from email.parser import HeaderParser
+
+import joblib
+import nltk
+import pandas as pd
+from bs4 import BeautifulSoup
+
+from DTO.EmailData import EmailData
+
 
 def containsWrapper(searchValue: str, text: str) -> int:
     return 1 if searchValue in text else 0
 
 def remove_punct(text: str) -> str:
-    txt = re.sub('[^a-zA-Z]', ' ', text)
+    txt = re.sub("[^a-zA-Z]", " ", text)
     return txt
 
 def strip_tags(txt: str) -> str:
-    s = BeautifulSoup(txt,'html.parser')
+    s = BeautifulSoup(txt,"html.parser")
     return s.get_text()
 
 def stemming(emailText: str) -> str:
-    stopWords = set(nltk.corpus.stopwords.words('english'))
+    stopWords = set(nltk.corpus.stopwords.words("english"))
     wordTokens = nltk.word_tokenize(emailText)
-    filteredEmailText = [word for word in wordTokens if not word.lower() in stopWords]
-    filteredEmailText = ' '.join(filteredEmailText)
+    filteredEmailText = [word for word in wordTokens if word.lower() not in stopWords]
+    filteredEmailText = " ".join(filteredEmailText)
     return filteredEmailText
 
 def emailParser(emailData: EmailData) -> pd.DataFrame:
@@ -53,7 +56,7 @@ def emailParser(emailData: EmailData) -> pd.DataFrame:
         "Body Verify your account": -1,  # Checks whether the email contains the string "verify your account"
         "Body no of function words": 0,  # Counts the number of function words
         "From eq Return": -1,  # Checks whether the from address is equal to the reply address
-        "Message-Id": h["Message-Id"]
+        "Message-Id": h["Message-Id"],
     }
 
     functionWords = ["Account", "Access", "Bank", "Credit", "Click", "Identity", "Inconvenience", "Information",
@@ -83,7 +86,7 @@ def emailParser(emailData: EmailData) -> pd.DataFrame:
         emailDic[x] = y
 
     # Verify if "from" addr eq to "return" addr
-    searchVal = re.search(r'<\s*(.*?)\s*>', str(pData.loc["From"].values))
+    searchVal = re.search(r"<\s*(.*?)\s*>", str(pData.loc["From"].values))
 
     if searchVal:
         fromAddress = searchVal.group(1)
@@ -97,7 +100,7 @@ def emailParser(emailData: EmailData) -> pd.DataFrame:
         pass
 
     # Count the number of links by counting the number of href tags in html code
-    links = re.findall(r'<a\s+[^>]*href=["\']?(http[^\'" >]+)', body.lower(), re.M)
+    links = re.findall(r'<a\s+[^>]*href=["\']?(http[^\'" >]+)', body.lower(), re.MULTILINE)
     emailDic["Number of Links"] = len(links)
 
     # Count the number of function words inside the email
@@ -110,11 +113,11 @@ def emailParser(emailData: EmailData) -> pd.DataFrame:
 
     #Load the data into a pd DataFrame
     modelData = pd.DataFrame([emailDic])
-    modelData.set_index('Message-Id', inplace=True)
+    modelData.set_index("Message-Id", inplace=True)
 
     #Load the TfidfVectorizer
     dirname = os.path.dirname(__file__)
-    filename = os.path.join(dirname, '../ML_Model/Tfidf_Vectorizer2.pkl')
+    filename = os.path.join(dirname, "../ML_Model/Tfidf_Vectorizer2.pkl")
     loadedTfidf = joblib.load(filename)
     textData = loadedTfidf.transform([body]).toarray()
     textData = pd.DataFrame(textData, columns=loadedTfidf.get_feature_names_out(), index=modelData.index)

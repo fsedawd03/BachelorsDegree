@@ -1,9 +1,7 @@
-from fastapi import FastAPI, Request, status
+from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+
 from Controllers.EmailDataController import emailData_controller_router
-from fastapi.exceptions import RequestValidationError
-from fastapi.responses import JSONResponse
-import logging
 
 app = FastAPI()
 
